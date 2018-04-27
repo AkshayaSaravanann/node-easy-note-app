@@ -1,0 +1,3222 @@
+
+(function() {
+try {
+
+
+var undefined;
+
+
+var debug;
+var ADventori;
+
+var _ADventori_data = {"request":{"protocol":"https://","domainName":"adventori.com","hostname":"f22.adventori.com","remoteIps":["203.211.155.4"]},"params":{"_errors":null,"i_id":"8938d934-e62e-4fa9-bf3a-84d1b80f0a04","aa":"c0h01w5x","c_a":"zxzjk3y","a_d":"esbcqp8","idfa":"","s_v":"google","p_a":"nkfwx1o","clickTag":"http://insight.adsrvr.org/track/clk?imp=8938d934-e62e-4fa9-bf3a-84d1b80f0a04&ag=nkfwx1o&sfe=d18ced9&sig=lTdMXjwVDWf17-FPSzCYXrDoDW2dDg8Ifft77A8uuH8.&crid=c0h01w5x&cf=312586&fq=1&td_s=www.callicoder.com&rcats=&mcat=&mste=&mfld=3&mssi=&mfsi=m7znlbhact&sv=google&uhow=108&agsa=&rgco=Singapore&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=Windows&os=Windows10&br=Chrome&svpid=pub-6533397327101411&rlangs=en&mlang=&did=&rcxt=Other&tmpc=&vrtd=&osi=&osv=&daid=&dnr=0&vpb=&svsc=&dur=ChkKB294a3c1NGwQh2UiCwjl_eRXEgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkQh2U.&crrelr=&npt=&svscid=pub-6533397327101411&mdl=Chrome%20-%20Windows&atst=0&r=https://adclick.g.doubleclick.net/aclk?sa=l&ai=CAmWb2U7hWomWEcvKuwTzr6-wB5qnvvBN9v6PjlfAjbcBEAEgAGC_BYIBF2NhLXB1Yi02NTMzMzk3MzI3MTAxNDExoAHahvPoA8gBCagDAaoEwwFP0OaPBQg1m4XH8hWxudYN2CP3jgDRNflbVPzJyMnXv88SdrsJOAOaIFcun_DeUmnxkvEXvFz9HQT6PuObxmjuvanLRVVv2bjw2xgpuCvoA7XZUk4lsj4OmYV0BaJiDkp08DS46d9tWPca_Vy0jsgfkNSpE2i2QGbTsXkdYcsLnvshXxHe0rrGwOnizJ61yBQAj_Mux9jfYbTBBwZOTeF9TiIeJBbHgtj0ndozLOc2jkpkFKwrHV1CfBBRv0LbAkaIIS6ABvrlr-vVlsuxR6AGIagHpr4b2AcA0ggFCIABEAE&num=1&sig=AOD64_3IcQ-QO5LgV6QN9xAVU3kUkIBt2A&client=ca-pub-6533397327101411&adurl=","aaid":"","cat":"","as_a":"google","z":"776194","td_id":"2d69a357-dbf6-413f-ae30-49245ebaf69d","p_id":"mawkc7y","placementId":"Foodpanda_201711_SG_RET_728x90","brandId":"16248290","format":null,"tk_ui_ios":"","tk_ui_android":""},"size":{"width":728,"height":90},"brand":{"id":16248290},"campaign":{"id":16250722,"name":"Foodpanda_ongoing_201711","campaignId":"Foodpanda_ongoing_201711"},"placement":{"id":333266,"name":"Foodpanda_201711_SG_RET_728x90","placementId":"Foodpanda_201711_SG_RET_728x90","placesSelectStrategy":"MAXIMUM","redirectToRetailerUrlClick":false,"externalLandingPageUrl":null,"maxPlaces":4,"displayFormat":"HTML","size":{"width":728,"height":90},"displayTag":"https://ad.atdmt.com/i/img;adv=11097201081785;ec=11097205658603;c.a=[c_a];s.a=the_trade_desk;p.a=[p_a];a.a=[aa];idfa=[idfa];aaid=[aaid];cache=[RANDOM];","clickTag":"https://ad.atdmt.com/c/img;adv=11097201081785;ec=11097205658603;c.a=[c_a];s.a=the_trade_desk;p.a=[p_a];a.a=[aa];idfa=[idfa];aaid=[aaid];cache=[RANDOM];qpb=1;?h=","adUrl":"[PROTOCOL]ap1.adventori.com/lp/dd/foodora/Foodpanda_OnGoing_201711/creas/[SIZE]/index.html","imgUrl":null,"passbackUrl":null,"ieMinVersion":9,"autoStart":"WRITE","track":{"view":false,"errorCreative":true},"useSkipOffset":false,"skipOffset":null,"siteTracker":{"useTag":true,"tagVersion":"v3","tagUrl":"/lp/sitetracker/tag.js"},"adServer":{"clickRedirectionEncoded":false,"clickTagEnd":false}},"track":{"tracker":{"type":"AdDisplay","campaignId":"Foodpanda_ongoing_201711","cartoucheId":"Foodpanda_201711_SG_RET_728x90","ui":"4tNL0DueEeiDln-9I6J79w","ip":"203.211.155.4","geoipAffiliationCityId":"1880252","geoipStatus":"2","context":"googleads.g.doubleclick.net|","clickTagDomaineName":"insight.adsrvr.org","urlClick":null,"mode":"multiple-1","affiliationCityId":"1880252","retailer_1":"1880252","retailer_2":null,"retailer_3":null,"retailer_4":null,"impressionId":"496bf581-490b-11e8-959e-710047371b37","acceptsThirdPartyCookies":true},"trackPrintUrl":"/tracker/trackPrint","trackClickUrl":"/tracker/trackClick","uiHash":1324831035,"referer":"https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6533397327101411&output=html&h=90&slotname=4166405878&adk=3675836635&adf=2216611206&w=857&fwrn=4&fwrnh=100&lmt=1524715224&loeid=332260007&rafmt=1&format=857x90&url=https%3A%2F%2Fwww.callicoder.com%2Fnode-js-express-mongodb-restful-crud-api-tutorial%2F&flash=0&fwr=0&rh=0&rw=856.797&resp_fmts=3&wgl=1&adsid=NT&dt=1524715218895&bpp=9&bdt=263&fdt=270&idt=272&shv=r20180423&cbv=r20180425&saldr=aa&prev_fmts=728x90%2C300x250%2C336x280&correlator=2405096814063&frm=20&ga_vid=776850495.1524708220&ga_sid=1524715219&ga_hid=1957408639&ga_fc=0&pv=1&iag=3&icsg=2&nhd=1&dssz=3&mdo=0&mso=0&u_tz=480&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=4&u_nmime=5&adx=80&ady=18494&biw=1349&bih=613&abxe=1&scr_x=0&scr_y=15465&eid=21061122%2C21061782%2C332260003%2C33895413%2C20040069%2C21060858&oid=3&ref=https%3A%2F%2Fwww.google.com.sg%2F&rx=0&eae=0&fc=528&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C613&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=f&pfx=0&fu=8336&bc=5&jar=2018-4-26-1&osw_key=11733848&ifi=3&fsb=1&xpc=K3n4czFpwN&p=https%3A//www.callicoder.com&dtd=5426","timestamp":1524717346026,"viewability":{"area":50}},"metadata":{"Country":"SG"},"campaignData":{"dataCTA":"{\"PK\":{\"cta\":\"Order Now\",\"url\":\"https://www.foodpanda.pk/\"},\"HK\":{\"cta\":\"Order Now\",\"url\":\"https://www.foodpanda.hk/\"},\"SG\":{\"cta\":\"Order Now\",\"url\":\"https://www.foodpanda.sg/\"},\"MY\":{\"cta\":\"Order Now\",\"url\":\"https://www.foodpanda.my/\"},\"PH\":{\"cta\":\"Order Now\",\"url\":\"https://www.foodpanda.ph/\"},\"TH\":{\"cta\":\"Order Now\",\"url\":\"https://www.foodpanda.co.th/\"},\"TW\":{\"cta\":\"Order Now\",\"url\":\"https://www.foodpanda.com.tw/\"}}","dimensions_folder":"{\"160x600\":{\"folder\":\"h600\"},\"200x200\":{\"folder\":\"h300\"},\"250x250\":{\"folder\":\"h300\"},\"300x250\":{\"folder\":\"h300\"},\"300x50\":{\"folder\":\"w320\"},\"300x600\":{\"folder\":\"h600\"},\"320x100\":{\"folder\":\"w320\"},\"320x480\":{\"folder\":\"h600\"},\"320x50\":{\"folder\":\"w320\"},\"336x280\":{\"folder\":\"h300\"},\"468x60\":{\"folder\":\"h300\"},\"728x90\":{\"folder\":\"h300\"},\"970x250\":{\"folder\":\"h600\"},\"970x90\":{\"folder\":\"h600\"},\"360x640\":{\"folder\":\"h600\"}}"},"medias":{},"results":{"places":{"nbPlacesAll":180,"nbPlacesInImpreciseArea":1,"nbPlacesInCatchmentArea":4,"nbPlacesInCityAffiliation":1,"impreciseAreaRadiusInKm":8.0,"catchmentAreaRadiusInKm":50.0,"cityAffiliation":{"geonameId":1880252,"latitude":1.28967,"longitude":103.85007,"name":"Singapore","woeid":null,"country":"SG"},"places":[{"id":58983772,"gmLatitude":1.28967,"gmLongitude":103.85007,"manualRepositioning":"NONE","name":"Singapore","shopGroup":"Foodora","country":"SG","clientId":"1880252","cityAffiliation":{"geonameId":1880252,"latitude":1.28967,"longitude":103.85007,"name":"Singapore","woeid":null,"country":"SG"},"retailerInfoId":43637330,"brandOwner":true}],"displayMode":"MULTIPLE"},"items":{"siteTrackers":{"Basket":{"productDetail":{}},"PageViewProduct_RDP":{"productDetail":{}},"Transaction":{"productDetail":{}},"PageViewCategory_RLP":{"productDetail":{}}},"cookies":null,"params":null,"placement":null,"places":null,"random":null,"related":{},"target":{"_default":[{"item":{"id":"SG_v9sr","sourceId":null},"entry":{"groupName":"city"},"tracker":null},{"item":{"id":"SG_v4mg","sourceId":null},"entry":{"groupName":"city"},"tracker":null},{"item":{"id":"SG_v0gu","sourceId":null},"entry":{"groupName":"city"},"tracker":null},{"item":{"id":"SG_v6wr","sourceId":null},"entry":{"groupName":"city"},"tracker":null},{"item":{"id":"SG_v1im","sourceId":null},"entry":{"groupName":"city"},"tracker":null},{"item":{"id":"SG_v5mj","sourceId":"SG"},"entry":{"groupName":"country"},"tracker":null},{"item":{"id":"SG_v9im","sourceId":"SG"},"entry":{"groupName":"country"},"tracker":null},{"item":{"id":"SG_v2km","sourceId":"SG"},"entry":{"groupName":"country"},"tracker":null},{"item":{"id":"SG_v3lj","sourceId":"SG"},"entry":{"groupName":"country"},"tracker":null},{"item":{"id":"SG_v2ph","sourceId":"SG"},"entry":{"groupName":"country"},"tracker":null}]},"items":{"i_SG_v9sr":{"id":"SG_v9sr","data":{"address":"Blk 151, Bishan Street 11, Bishan, Ang Mo Kio, Toa Payoh, Singapore, Singapore","city":"Singapore","country":"Singapore","countryCode":"SG","country_iso_code":"SG","cuisines_global":"Singaporean","deeplink_country":"foodpanda://?c=sg&s=l","deeplink_restaurant":"foodpanda://?c=sg&s=s&v=11898","id":"SG_v9sr","landing_page_menu":"http://www.foodpanda.sg/restaurant/v9sr/dynasty-ipoh-seafood","latitude":"1.34501200","longitude":"103.85575900","name":"Dynasty Ipoh Seafood 皇庭怡保著名海鲜炒粥","opening_hours":"Monday: 11:00:00-21:30:00, Tuesday: 11:00:00-21:30:00, Wednesday: 11:00:00-21:30:00, Thursday: 11:00:00-21:30:00, Friday: 11:00:00-21:30:00, Saturday: 11:00:00-21:30:00, Sunday: 11:00:00-21:30:00","opening_times_per_day":"Monday: 1, Tuesday: 1, Wednesday: 1, Thursday: 1, Friday: 1, Saturday: 1, Sunday: 1","placeId":"1880252","restaurant_logo":"/i/16248290/original/03/0399ba398400044111045ace777f92cd.jpg","topWeb":"0","zip_code":"570151"},"deleted":false,"availability":null},"i_SG_v4mg":{"id":"SG_v4mg","data":{"address":"721 Ang Mo Kio Ave 8, Ang Mo Kio, Toa Payoh, North, Singapore, Singapore","city":"Singapore","country":"Singapore","countryCode":"SG","country_iso_code":"SG","cuisines_global":"Chinese","deeplink_country":"foodpanda://?c=sg&s=l","deeplink_restaurant":"foodpanda://?c=sg&s=s&v=12255","id":"SG_v4mg","image_link":"/i/16248290/original/c6/c640e4e06039f8eff47e38259ce4c7a9.jpg","landing_page_menu":"http://www.foodpanda.sg/restaurant/v4mg/xin-xin-seafood","latitude":"1.30975100","longitude":"103.86005400","name":"Xin Xin Seafood","opening_hours":"Monday: 11:00:00-22:30:00, Tuesday: 11:00:00-22:30:00, Wednesday: 11:00:00-22:30:00, Thursday: 11:00:00-22:30:00, Friday: 11:00:00-22:30:00, Saturday: 11:00:00-22:30:00, Sunday: 11:00:00-22:30:00","opening_times_per_day":"Monday: 1, Tuesday: 1, Wednesday: 1, Thursday: 1, Friday: 1, Saturday: 1, Sunday: 1","placeId":"1880252","restaurant_logo":"/i/16248290/original/bb/bb7cfd0c2dfd5a39cd96f76ced7f5fc3.png","topWeb":"0","zip_code":"207542"},"deleted":false,"availability":null},"i_SG_v0gu":{"id":"SG_v0gu","data":{"address":"#02-11, 8 Grange Road, Cathay Cineleisure Orchard, River Valley, West Central, Central, Singapore, Singapore","city":"Singapore","country":"Singapore","countryCode":"SG","country_iso_code":"SG","cuisines_global":"Singaporean","deeplink_country":"foodpanda://?c=sg&s=l","deeplink_restaurant":"foodpanda://?c=sg&s=s&v=12527","foodcharacteristics":"Late Night Delivery","id":"SG_v0gu","landing_page_menu":"http://www.foodpanda.sg/restaurant/v0gu/chill-gen-by-xin-wang-cineleisure-lnd","latitude":"1.30155500","longitude":"103.83666000","name":"Chill Gen by Xin Wang (Cineleisure)-LND","opening_hours":"Saturday: 00:00:00-01:30:00, Sunday: 00:00:00-01:30:00","opening_times_per_day":"Saturday: 1, Sunday: 1","placeId":"1880252","restaurant_logo":"/i/16248290/original/af/aff5080892ee076bf9398aa88a7c9632.png","topWeb":"0","zip_code":"239695"},"deleted":false,"availability":null},"i_SG_v6wr":{"id":"SG_v6wr","data":{"address":"#02-10B, 293 Holland Road, Jelita Cold Storage, Singapore, Singapore","city":"Singapore","country":"Singapore","countryCode":"SG","country_iso_code":"SG","cuisines_global":"Cakes & Bakery","deeplink_country":"foodpanda://?c=sg&s=l","deeplink_restaurant":"foodpanda://?c=sg&s=s&v=12061","discount_title":"Free Delivery!","discount_type":"Free Delivery","id":"SG_v6wr","image_link":"/i/16248290/original/50/50c252b992cfea54e9ffb2ca7ddf9f15.jpg","landing_page_menu":"http://www.foodpanda.sg/restaurant/v6wr/delifrance-jelita-cold-storage","latitude":"1.31772800","longitude":"103.78587600","name":"Délifrance (Jelita Cold Storage)","opening_hours":"Monday: 08:00:00-21:30:00, Tuesday: 08:00:00-21:30:00, Wednesday: 08:00:00-21:30:00, Thursday: 08:00:00-21:30:00, Friday: 08:00:00-21:30:00, Saturday: 08:00:00-21:30:00, Sunday: 08:00:00-21:30:00","opening_times_per_day":"Monday: 1, Tuesday: 1, Wednesday: 1, Thursday: 1, Friday: 1, Saturday: 1, Sunday: 1","placeId":"1880252","restaurant_logo":"/i/16248290/original/68/68db4f338215bde67c3c2cfe24c65fc7.jpg","topWeb":"0","zip_code":"278628"},"deleted":false,"availability":null},"i_SG_v1im":{"id":"SG_v1im","data":{"address":"01-54, 91 Bencoolen Street, Sunshine Plaza, Lower Central, Bugis, City Hall, Singapore, Singapore","city":"Singapore","country":"Singapore","countryCode":"SG","country_iso_code":"SG","cuisines_global":"Japanese","deeplink_country":"foodpanda://?c=sg&s=l","deeplink_restaurant":"foodpanda://?c=sg&s=s&v=12107","foodcharacteristics":"Bento, Fast Food, Meat","id":"SG_v1im","image_link":"/i/16248290/original/43/431496bf945433f7ec2b8f78dd866ee9.jpg","landing_page_menu":"http://www.foodpanda.sg/restaurant/v1im/shibaura-genghis-khan","latitude":"1.30028700","longitude":"103.85119300","name":"Shibaura Genghis Khan","opening_hours":"Monday: 11:00:00-21:00:00, Tuesday: 11:00:00-21:00:00, Wednesday: 11:00:00-21:00:00, Thursday: 11:00:00-21:00:00, Friday: 11:00:00-21:00:00, Saturday: 11:00:00-21:00:00, Sunday: 11:00:00-21:00:00","opening_times_per_day":"Monday: 1, Tuesday: 1, Wednesday: 1, Thursday: 1, Friday: 1, Saturday: 1, Sunday: 1","placeId":"1880252","restaurant_logo":"/i/16248290/original/0f/0f3ed8510da65801d12d0ac0d1b24d97.png","topWeb":"0","zip_code":"189652"},"deleted":false,"availability":null},"i_SG_v5mj":{"id":"SG_v5mj","data":{"address":"B1-29/30, 16 Raffles Quay, Clarke Quay, Lower Central, Central, Singapore, Singapore","city":"Singapore","country":"Singapore","countryCode":"SG","country_iso_code":"SG","cuisines_global":"Vietnamese","deeplink_country":"foodpanda://?c=sg&s=l","deeplink_restaurant":"foodpanda://?c=sg&s=s&v=12097","id":"SG_v5mj","image_link":"/i/16248290/original/6d/6d5b884f4d9177884b5fe2b186282873.jpg","landing_page_menu":"http://www.foodpanda.sg/restaurant/v5mj/pho-street-hong-leong-building","latitude":"1.28130400","longitude":"103.85083400","name":"Pho Street (Hong Leong Building)","opening_hours":"Monday: 11:00:00-19:00:00, Tuesday: 11:00:00-19:00:00, Wednesday: 11:00:00-19:00:00, Thursday: 11:00:00-19:00:00, Friday: 11:00:00-19:00:00","opening_times_per_day":"Monday: 1, Tuesday: 1, Wednesday: 1, Thursday: 1, Friday: 1","placeId":"1880252","restaurant_logo":"/i/16248290/original/6d/6db20b727a7dc69d457b5cd1092fc839.jpg","topWeb":"0","zip_code":"048581"},"deleted":false,"availability":null},"i_SG":{"id":"SG","data":{"isCountry":"true"},"deleted":false,"availability":null},"i_SG_v9im":{"id":"SG_v9im","data":{"address":"01- 605, Blk 537 Bukit Batok Street 51, Bukit Batok, Outer Central, Singapore, Singapore","city":"Singapore","country":"Singapore","countryCode":"SG","country_iso_code":"SG","cuisines_global":"Singaporean","deeplink_country":"foodpanda://?c=sg&s=l","deeplink_restaurant":"foodpanda://?c=sg&s=s&v=12318","id":"SG_v9im","image_link":"/i/16248290/original/32/325a1826b620bc82463f70c62917d29d.jpg","landing_page_menu":"http://www.foodpanda.sg/restaurant/v9im/the-skinny-papas","latitude":"1.35520600","longitude":"103.75068400","name":"The Skinny Papas","opening_hours":"Monday: 07:30:00-21:00:00, Tuesday: 07:30:00-21:00:00, Wednesday: 07:30:00-21:00:00, Thursday: 07:30:00-21:00:00, Friday: 07:30:00-21:00:00, Saturday: 07:30:00-21:00:00, Sunday: 07:30:00-21:00:00","opening_times_per_day":"Monday: 1, Tuesday: 1, Wednesday: 1, Thursday: 1, Friday: 1, Saturday: 1, Sunday: 1","placeId":"1732752","restaurant_logo":"/i/16248290/original/a8/a883f5d178a314b648f676aa45295a3d.png","topWeb":"0","zip_code":"650537"},"deleted":false,"availability":null},"i_SG_v2km":{"id":"SG_v2km","data":{"address":"#B1-25, 1 Woodlands Square , Causeway Point Shopping Centre, Singapore, Singapore","city":"Singapore","country":"Singapore","countryCode":"SG","country_iso_code":"SG","cuisines_global":"Pizza","deeplink_country":"foodpanda://?c=sg&s=l","deeplink_restaurant":"foodpanda://?c=sg&s=s&v=12220","foodcharacteristics":"Halal, Pasta","id":"SG_v2km","image_link":"/i/16248290/original/7b/7bcc55bdc944e4c4f883f6b4f0d5e83b.jpg","landing_page_menu":"http://www.foodpanda.sg/restaurant/v2km/pizza-hut-causeway-point","latitude":"1.43585500","longitude":"103.78622200","name":"Pizza Hut (Causeway Point)","opening_hours":"Monday: 11:00:00-22:00:00, Tuesday: 11:00:00-22:00:00, Wednesday: 11:00:00-22:00:00, Thursday: 11:00:00-22:00:00, Friday: 11:00:00-22:00:00, Saturday: 11:00:00-22:00:00, Sunday: 11:00:00-22:00:00","opening_times_per_day":"Monday: 1, Tuesday: 1, Wednesday: 1, Thursday: 1, Friday: 1, Saturday: 1, Sunday: 1","placeId":"1732752","topWeb":"0","zip_code":"738099"},"deleted":false,"availability":null},"i_SG_v3lj":{"id":"SG_v3lj","data":{"address":"B1-03, 1 Bukit Batok Central Link, West Mall, Singapore, Singapore","city":"Singapore","country":"Singapore","countryCode":"SG","country_iso_code":"SG","cuisines_global":"Cakes & Bakery","deeplink_country":"foodpanda://?c=sg&s=l","deeplink_restaurant":"foodpanda://?c=sg&s=s&v=12055","id":"SG_v3lj","image_link":"/i/16248290/original/0e/0e241958cebd40624fd21b28fedf6f2f.jpg","landing_page_menu":"http://www.foodpanda.sg/restaurant/v3lj/delifrance-westmall","latitude":"1.34964900","longitude":"103.74910700","name":"Délifrance (WestMall)","opening_hours":"Monday: 08:30:00-21:30:00, Tuesday: 08:30:00-21:30:00, Wednesday: 08:30:00-21:30:00, Thursday: 08:30:00-21:30:00, Friday: 08:30:00-21:30:00, Saturday: 08:30:00-21:30:00, Sunday: 08:30:00-21:30:00","opening_times_per_day":"Monday: 1, Tuesday: 1, Wednesday: 1, Thursday: 1, Friday: 1, Saturday: 1, Sunday: 1","placeId":"1732752","restaurant_logo":"/i/16248290/original/62/6222a6095630ac6f4da6f489496d9e02.jpg","topWeb":"0","zip_code":"658713"},"deleted":false,"availability":null},"i_SG_v2ph":{"id":"SG_v2ph","data":{"address":"01-97, Blk 3 St George Road, Kallang, Boon Keng, Upper Central, Central, Singapore, Singapore","city":"Singapore","country":"Singapore","countryCode":"SG","country_iso_code":"SG","cuisines_global":"Indian","deeplink_country":"foodpanda://?c=sg&s=l","deeplink_restaurant":"foodpanda://?c=sg&s=s&v=12183","foodcharacteristics":"Late Night Delivery","id":"SG_v2ph","image_link":"/i/16248290/original/2f/2f52d336b3434e0997af84c91a021264.jpg","landing_page_menu":"http://www.foodpanda.sg/restaurant/v2ph/donbaasha-restaurant","latitude":"1.32268500","longitude":"103.86095400","name":"DonBaasha Restaurant","opening_hours":"Monday: 08:00:00-00:00:00, Tuesday: 08:00:00-00:00:00, Wednesday: 08:00:00-00:00:00, Thursday: 08:00:00-00:00:00, Friday: 08:00:00-00:00:00, Saturday: 08:00:00-00:00:00, Sunday: 08:00:00-00:00:00","opening_times_per_day":"Monday: 1, Tuesday: 1, Wednesday: 1, Thursday: 1, Friday: 1, Saturday: 1, Sunday: 1","placeId":"1880252","restaurant_logo":"/i/16248290/original/9c/9c4892ed0e8116048749d3f244043fe3.png","topWeb":"0","zip_code":"320003"},"deleted":false,"availability":null}}},"userData":{"siteTrackers":{"Basket":{"customerDetail":[]},"PageViewProduct_RDP":{"customerDetail":[]},"PageViewHome_Homepage":{"customerDetail":[{"data":{"event_platform":"b2c","user_device_type":"NA"},"date":"2018-04-17T04:24:50.759+0000","url":"https://www.foodpanda.sg/","geolocation":{"label":"geolocalisation","latitude":null,"longitude":null,"radius":null}}]},"PageViewCategory_RLP":{"customerDetail":[]},"Transaction":{"customerDetail":[]}},"cookies":null,"dmp":null,"target":{"_default":[]}}}};
+
+(function() {
+
+var _MAX_INT = 2147483647;
+var _MAX_UNSIGNED_INT = 4294967295;
+
+
+var _frameWindow = window;
+
+
+var _nav;
+var _ua;
+try {
+  _nav = window.navigator;
+  _ua = _nav && _nav.userAgent;
+} catch(e) {}
+
+
+var _arrayProto = Array.prototype,
+  _objectProto = Object.prototype,
+  _slice = _arrayProto.slice,
+  _concat = _arrayProto.concat,
+  _push = _arrayProto.push,
+  _toString = _objectProto.toString,
+  _hasOwn = _objectProto.hasOwnProperty;
+
+
+var _JSON;
+var _Date;
+
+
+var _utils = {
+
+
+_encode: function(str) {
+  try {try {return encodeURIComponent(str);} catch(e) {return escape(str);}} catch(e) {} return str;
+},
+_decode: function(str) {
+  try {try {return decodeURIComponent(str);} catch(e) {return unescape(str);}} catch(e) {} return str;
+},
+
+
+_isArray: Array.isArray || function(o) {
+  return _toString.call(o) === '[object Array]';
+},
+
+
+_isPlainObject: function(o) {
+  if (!o || _toString.call(o) !== '[object Object]' || o.nodeType || o == o.window) {return false;}
+  try {if (o.constructor && !_hasOwn.call(o, 'constructor') && !_hasOwn.call(o.constructor.prototype, 'isPrototypeOf')) {return false;}} catch(e) {return false;}
+  for (var key in o) {if (!_hasOwn.call(o, key)) {return false;}}
+  return true;
+},
+
+
+_isEmptyObject: function(o) {
+  for (var key in o) {
+    return false;
+  }
+  return true;
+},
+
+
+_bind: function(fn, ctx, args) {
+  return (function() {
+    return fn.apply(ctx || this, _slice.call(args || []).concat(_slice.call(arguments)));
+  });
+},
+
+
+extend: function() {
+  var options, name, src, copy, copyIsArray, clone,
+    target = arguments[0] || {},
+    i = 1,
+    length = arguments.length,
+    deep = false;
+  if (typeof target === 'boolean') {
+    deep = target;
+    target = arguments[i] || {};
+    i++;
+  }
+  for ( ; i < length; i++) {
+    if ((options = arguments[i]) != null) {
+      for (name in options) {
+        if (_hasOwn.call(options, name)) {
+          src = target[name];
+          copy = options[name];
+          if (target === copy) {
+            continue;
+          }
+          copyIsArray = false;
+          if (deep && copy && (_utils._isPlainObject(copy) || (copyIsArray = _utils._isArray(copy)))) {
+            clone = copyIsArray ? (src && _utils._isArray(src) ? src : []) : (src && _utils._isPlainObject(src) ? src : {});
+            target[name] = _utils.extend(deep, clone, copy);
+          } else if (copy !== undefined) {
+            target[name] = copy;
+          }
+        }
+      }
+    }
+  }
+  return target;
+},
+
+
+each: function(obj, fn) {
+  var i, len;
+  if (obj != null) {
+    if (_utils._isArray(obj)) {
+      for (i = 0, len = obj.length; i < len; i++) {
+        if (fn.call(obj[i], i, obj[i]) === false) {
+          break;
+        }
+      }
+    } else {
+      for (i in obj) {
+        if (_hasOwn.call(obj, i)) {
+          if (fn.call(obj[i], i, obj[i]) === false) {
+            break;
+          }
+        }
+      }
+    }
+  }
+  return obj;
+},
+
+
+map: function(obj, fn) {
+  var res = [];
+  _utils.each(obj, function(i) {
+    var value = fn(obj[i], i);
+    if (value != null) {
+      res.push(value);
+    }
+  });
+  return _concat.apply([], res);
+},
+
+
+toQueryString: function(params) {
+  return _utils.map(params, function(value, key) {
+    if (key != null && value != null) {
+      return (_utils._encode(key) + '=' + _utils._encode(value));
+    }
+  }).join('&');
+},
+
+
+fromQueryString: function(str) {
+  var params = {};
+  var pairs = str.replace(/\+/g, ' ').split('&');
+  _utils.each(pairs, function(i, value) {
+    var pair = value.split('=');
+    var key = _utils._decode(pair[0]);
+    if (key) {
+      params[key] = _utils._decode(pair[1] || '');
+    }
+  });
+  return params;
+},
+
+
+addQueryParams: function(url, params) {
+  url = url || '';
+  if (!params) {
+    return url;
+  }
+  if (_utils._isPlainObject(params)) {
+    params = _utils.toQueryString(params);
+  }
+  var hashIndex = url.indexOf('#');
+  var urlNoHash = hashIndex >= 0 ? url.slice(0, hashIndex) : url;
+  var hash = hashIndex >= 0 ? url.slice(hashIndex) : '';
+  return (urlNoHash + (urlNoHash.indexOf('?') >= 0 ? '&' : '?') + params + hash);
+},
+
+
+uniqueId: function() {
+  return ('' + Math.random()).replace(/\D/g, '').slice(1, 11);
+}
+
+};
+
+var _extend = _utils.extend;
+
+debug = {
+  _log: function(l, args) {
+    try {
+      var C;
+      args = _slice.call(args || []);
+      debug.queue.push([l, args, debug.stack.slice()]);
+      (C = window.console) && C[l] && C[l].apply(C, ['[ADventori]'].concat(args));
+    } catch(e) {}
+  },
+  log: function() {
+    debug._log('log', arguments);
+  },
+  error: function() {
+    debug._log('error', arguments);
+  },
+  queue: [],
+  stack: []
+};
+
+
+ADventori = _frameWindow.ADventori = function(conf) {
+  ADventori.ads = ADventori.ads || [];
+  ADventori.ads.push(this);
+  this.id = ADventori.fn.id = ADventori.id + '_' + ADventori.ads.length;
+  ADventori._ads = ADventori._ads || {};
+  ADventori._ads[this.id] = this;
+  this.started = false;
+  this.conf = ADventori.fn.conf = _extend(true, {}, conf || ADventori.conf);
+  this.conf.processed = _extend(true, {}, ADventori.conf.processed);
+  if (ADventori.Items) {
+    this.conf.items = new ADventori.Items(this);
+  }
+  if (ADventori.Viewability) {
+    this.conf.viewability = new ADventori.Viewability(this);
+  }
+};
+
+
+_extend(ADventori, {
+
+version: '4.0.0',
+
+id: _utils.uniqueId(),
+
+started: false
+
+});
+
+
+_extend(ADventori, {
+
+
+data: _ADventori_data,
+
+
+debug: debug,
+
+utils: _utils,
+
+fn: ADventori.prototype
+
+});
+
+
+_extend(ADventori, {
+
+track: {
+
+_guid: 1,
+_trackedErrors: {},
+
+
+disabledErrors: {},
+
+
+toErrorString: function(e) {
+  return (e && e.name ? (e.name + ': ' + (e.message || '')) : (e || '')) + '';
+},
+
+
+toQueryParams: function(trackerProps) {
+  var params = {};
+  _utils.each(trackerProps, function(key, value) {
+    params['tk_' + key] = value;
+  });
+  return params;
+},
+
+
+toUrl: function(trackerProps, params) {
+  var trackerUrl = ADventori.data.request.protocol + ADventori.data.request.hostname + ADventori.data.track.trackPrintUrl;
+  trackerProps = _extend({}, ADventori.data.track.tracker, trackerProps, {
+    "eventIndex": ADventori.track._guid++
+  });
+  return _utils.addQueryParams(trackerUrl, _extend({}, ADventori.track.toQueryParams(trackerProps), params));
+},
+
+
+toUrlRedirect: function(trackerProps, redirectUrl, params) {
+  return ADventori.track.toUrl(_extend({}, trackerProps, {
+    "urlClick": redirectUrl
+  }), _extend({
+    "redirect": true
+  }, params));
+},
+
+
+toUrlRedirectStacked: function(trackerProps, redirectUrl, params) {
+  return (
+    ADventori.track.toUrl(trackerProps, params) +
+    '&URL=' + redirectUrl
+  );
+},
+
+
+toUrlShow: function(trackerType, trackerProps) {
+  return trackerType ? ADventori.track.toUrl(_extend({
+    "type": trackerType,
+    "urlClick": null,
+    "clickTagDomaineName": null,
+    "affiliationCityId": null,
+    "retailer_1": null,
+    "retailer_2": null,
+    "retailer_3": null,
+    "retailer_4": _ua
+  }, trackerProps)) :
+  null;
+},
+
+
+toUrlClickRedirect: function(trackerType, trackerProps, redirectUrl) {
+  return trackerType ? ADventori.track.toUrlRedirectStacked(_extend({
+    "type": trackerType,
+    "urlClick": null,
+    "context": null,
+    "clickTagDomaineName": null,
+    "retailer_1": null,
+    "retailer_2": null,
+    "retailer_3": null,
+    "retailer_4": null
+  }, trackerProps), redirectUrl).replace(ADventori.data.track.trackPrintUrl, ADventori.data.track.trackClickUrl) :
+  redirectUrl;
+},
+
+
+toUrlClickPixel: function(trackerType, trackerProps) {
+  return trackerType ? ADventori.track.toUrl(_extend({
+    "type": trackerType,
+    "urlClick": null,
+    "retailer_1": null,
+    "retailer_2": null,
+    "retailer_3": null,
+    "retailer_4": _ua
+  }, trackerProps)) :
+  null;
+},
+
+
+toUrlError: function(trackerType, trackerProps) {
+  return ADventori.track.toUrl(_extend({
+    "type": trackerType,
+    "context": ADventori.data.track.referer,
+    "urlClick": null,
+    "affiliationCityId": null,
+    "retailer_1": null,
+    "retailer_2": null,
+    "retailer_3": null,
+    "retailer_4": _ua
+  }, trackerProps));
+},
+
+
+error: function(e, trackerType, trackerProps) {
+  try {
+    trackerType = trackerType || 'AdError';
+    if (!ADventori.track.disabledErrors[trackerType]) {
+      var message = ADventori.track.toErrorString(e);
+      var trackedErrorKey = trackerType + '~' + message;
+      if (!ADventori.track._trackedErrors[trackedErrorKey]) {
+        ADventori.track._trackedErrors[trackedErrorKey] = true;
+        var i = document.createElement('img');
+        i.width = 1;
+        i.height = 1;
+        i.src = ADventori.track.toUrlError(trackerType, _extend({
+          "urlClick": (message + '@' + debug.stack.join('@')).slice(0, 1000)
+        }, trackerProps));
+      }
+      debug.error(trackerType, e);
+    }
+  } catch(_e) {}
+},
+
+
+call: function(fn, debugStack) {
+  debug.stack.push(debugStack);
+  var result = fn();
+  debug.stack.pop();
+  return result;
+},
+
+
+attempt: function(fn, debugStack, trackerType, trackerProps, onError) {
+  var debugStackCopy = debug.stack.slice();
+  try {
+    return ADventori.track.call(fn, debugStack);
+  } catch(e) {
+    ADventori.track.error(e, trackerType, trackerProps);
+    if (onError) {
+      onError(e);
+    }
+  }
+  debug.stack = debugStackCopy;
+  return null;
+},
+
+
+setTimeout: function(fn, delay, debugStack, trackerType, trackerProps, onError) {
+  return setTimeout(function() {
+    ADventori.track.attempt(fn, debugStack, trackerType, trackerProps, onError);
+  }, delay);
+},
+
+
+setInterval: function(fn, delay, debugStack, trackerType, trackerProps, onError) {
+  var intervalID = setInterval(function() {
+    ADventori.track.attempt(fn, debugStack, trackerType, trackerProps, function(e) {
+      clearInterval(intervalID);
+      if (onError) {
+        onError(e);
+      }
+    });
+  }, delay);
+  return intervalID;
+}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+assert: {
+
+
+
+_checkArgs: function(cond, message, trackerType, trackerProps) {
+  if (!cond) {
+    ADventori.track.error(message, trackerType || 'AdErrorArgs', trackerProps);
+  }
+  return cond;
+},
+
+
+fail: function(message, trackerType, trackerProps) {
+  ADventori.track.error(message, trackerType || 'AdErrorAssert', trackerProps);
+},
+
+
+isTrue: function(expr, message, trackerType, trackerProps) {
+  if (!expr) {
+    ADventori.assert.fail(message, trackerType, trackerProps);
+  }
+},
+
+
+isNotNull: function(expr, message, trackerType, trackerProps) {
+  ADventori.assert.isTrue(expr != null, message, trackerType, trackerProps);
+},
+
+
+isNotEmpty: function(expr, message, trackerType, trackerProps) {
+  ADventori.assert.isTrue(expr && (expr.length > 0 || !_utils._isEmptyObject(expr)), message, trackerType, trackerProps);
+},
+
+
+isValidUrl: function(url, message, _secure) {
+  if (!url) {
+    ADventori.assert.fail(['NO_URL', ADventori.track.toErrorString(message), url].join(': '), 'AdErrorUrl');
+  } else if (!/^https?:\/\//.test(url)) {
+    ADventori.assert.fail(['NO_PROTOCOL', ADventori.track.toErrorString(message), url].join(': '), 'AdErrorUrl');
+  } else if (_secure && ADventori.data.request.protocol == 'https://' && !/^https:\/\//.test(url)) {
+    ADventori.assert.fail(['NO_SECURE_PROTOCOL', ADventori.track.toErrorString(message), url].join(': '), 'AdErrorUrl');
+  }
+},
+
+
+isValidUrlSecure: function(url, message) {
+  ADventori.assert.isValidUrl(url, message, true);
+}
+
+}
+
+});
+
+
+ADventori.track.attempt(function() {
+  _Date = Date;
+}, '_Date', 'AdErrorEnv');
+
+
+ADventori.track.attempt(function() {
+  "object"!=typeof JSON&&(JSON={}),function(){"use strict";function f(t){return 10>t?"0"+t:t}function quote(t){return escapable.lastIndex=0,escapable.test(t)?'"'+t.replace(escapable,function(t){var e=meta[t];return"string"==typeof e?e:"\\u"+("0000"+t.charCodeAt(0).toString(16)).slice(-4)})+'"':'"'+t+'"'}function str(t,e){var r,n,o,f,u,p=gap,a=e[t];switch(a&&"object"==typeof a&&"function"==typeof a.toJSON&&(a=a.toJSON(t)),"function"==typeof rep&&(a=rep.call(e,t,a)),typeof a){case"string":return quote(a);case"number":return isFinite(a)?a+"":"null";case"boolean":case"null":return a+"";case"object":if(!a)return"null";if(gap+=indent,u=[],"[object Array]"===Object.prototype.toString.apply(a)){for(f=a.length,r=0;f>r;r+=1)u[r]=str(r,a)||"null";return o=0===u.length?"[]":gap?"[\n"+gap+u.join(",\n"+gap)+"\n"+p+"]":"["+u.join(",")+"]",gap=p,o}if(rep&&"object"==typeof rep)for(f=rep.length,r=0;f>r;r+=1)"string"==typeof rep[r]&&(n=rep[r],o=str(n,a),o&&u.push(quote(n)+(gap?": ":":")+o));else for(n in a)Object.prototype.hasOwnProperty.call(a,n)&&(o=str(n,a),o&&u.push(quote(n)+(gap?": ":":")+o));return o=0===u.length?"{}":gap?"{\n"+gap+u.join(",\n"+gap)+"\n"+p+"}":"{"+u.join(",")+"}",gap=p,o}}"function"!=typeof Date.prototype.toJSON&&(Date.prototype.toJSON=function(){return isFinite(this.valueOf())?this.getUTCFullYear()+"-"+f(this.getUTCMonth()+1)+"-"+f(this.getUTCDate())+"T"+f(this.getUTCHours())+":"+f(this.getUTCMinutes())+":"+f(this.getUTCSeconds())+"Z":null},String.prototype.toJSON=Number.prototype.toJSON=Boolean.prototype.toJSON=function(){return this.valueOf()});var cx,escapable,gap,indent,meta,rep;"function"!=typeof JSON.stringify&&(escapable=/[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,meta={"\b":"\\b","	":"\\t","\n":"\\n","\f":"\\f","\r":"\\r",'"':'\\"',"\\":"\\\\"},JSON.stringify=function(t,e,r){var n;if(gap="",indent="","number"==typeof r)for(n=0;r>n;n+=1)indent+=" ";else"string"==typeof r&&(indent=r);if(rep=e,e&&"function"!=typeof e&&("object"!=typeof e||"number"!=typeof e.length))throw Error("JSON.stringify");return str("",{"":t})}),"function"!=typeof JSON.parse&&(cx=/[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,JSON.parse=function(text,reviver){function walk(t,e){var r,n,o=t[e];if(o&&"object"==typeof o)for(r in o)Object.prototype.hasOwnProperty.call(o,r)&&(n=walk(o,r),void 0!==n?o[r]=n:delete o[r]);return reviver.call(t,e,o)}var j;if(text+="",cx.lastIndex=0,cx.test(text)&&(text=text.replace(cx,function(t){return"\\u"+("0000"+t.charCodeAt(0).toString(16)).slice(-4)})),/^[\],:{}\s]*$/.test(text.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g,"@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g,"")))return j=eval("("+text+")"),"function"==typeof reviver?walk({"":j},""):j;throw new SyntaxError("JSON.parse")})}();
+
+  
+  (function(stringify) {
+    JSON.stringify = function() {
+      if (typeof Array != 'undefined' && Array.prototype.toJSON) {
+        var types = [Boolean, Number, String, Array, Date, Object], toJSONs = [], i;
+        for (i = 0; i < types.length; i++) {toJSONs[i] = types[i].prototype.toJSON; toJSONs[i] && (delete types[i].prototype.toJSON);}
+        (function(){function f(t){return 10>t?"0"+t:t}Date.prototype.toJSON=function(){return isFinite(this.valueOf())?this.getUTCFullYear()+"-"+f(this.getUTCMonth()+1)+"-"+f(this.getUTCDate())+"T"+f(this.getUTCHours())+":"+f(this.getUTCMinutes())+":"+f(this.getUTCSeconds())+"Z":null},String.prototype.toJSON=Number.prototype.toJSON=Boolean.prototype.toJSON=function(){return this.valueOf()}})();
+        var result = stringify.apply(this, arguments);
+        for (i = 0; i < types.length; i++) {toJSONs[i] && (types[i].prototype.toJSON = toJSONs[i]);}
+        return result;
+      }
+      return stringify.apply(this, arguments);
+    };
+  })(JSON.stringify);
+
+  
+  _JSON = JSON;
+}, 'json2', 'AdErrorEnv');
+
+
+ADventori.track.attempt(function() {
+  var dataParamsErrors = ADventori.data.params._errors;
+  if (dataParamsErrors) {
+    ADventori.track.error(dataParamsErrors.join(','), 'AdErrorRedirectUrl');
+  }
+}, 'dataParamsErrors', 'AdErrorEnv');
+
+
+ADventori.track.attempt(function() {
+  var campaignData = {};
+  _utils.each(ADventori.data.campaignData, function(key, value) {
+    campaignData[key] = _JSON.parse(value);
+  });
+  ADventori.data.campaignData = campaignData;
+}, 'campaignData', 'AdErrorEnv');
+
+
+_extend(ADventori, {
+
+collect: {
+
+arrays: {
+
+toObject: function(arr, fn) {
+  if (!ADventori.assert._checkArgs(arr && _utils._isArray(arr), {name: 'collect.arrays.toObject', message: 'NO_ARRAY_INPUT'}) ||
+      !ADventori.assert._checkArgs(typeof fn == 'function', {name: 'collect.arrays.toObject', message: 'NO_FUNCTION_INPUT'})) {
+    return {};
+  }
+  var obj = {};
+  _utils.each(arr, function(i, val) {
+    var entry = fn(val);
+    if (entry != null && entry.length > 0) {
+      obj[entry[0]] = entry[1];
+    }
+  });
+  return obj;
+},
+
+deduplicateBy: function(arr, fn) {
+  if (!ADventori.assert._checkArgs(arr && _utils._isArray(arr), {name: 'collect.arrays.deduplicateBy', message: 'NO_ARRAY_INPUT'}) ||
+      !ADventori.assert._checkArgs(typeof fn == 'function', {name: 'collect.arrays.deduplicateBy', message: 'NO_FUNCTION_INPUT'})) {
+    return [];
+  }
+  var keys = {};
+  return _utils.map(arr, function(val) {
+    var key = fn(val);
+    if (key != null && !keys[key]) {
+      keys[key] = true;
+      return val;
+    }
+  });
+}
+
+},
+
+objects: {
+
+toArray: function(obj, fn) {
+  if (!ADventori.assert._checkArgs(obj && _utils._isPlainObject(obj), {name: 'collect.objects.toArray', message: 'NO_OBJECT_INPUT'}) ||
+      !ADventori.assert._checkArgs(typeof fn == 'function', {name: 'collect.objects.toArray', message: 'NO_FUNCTION_INPUT'})) {
+    return [];
+  }
+  return _utils.map(obj, function(val, key) {
+    return fn(key, val);
+  });
+},
+
+size: function(obj) {
+  if (!ADventori.assert._checkArgs(obj && _utils._isPlainObject(obj), {name: 'collect.objects.size', message: 'NO_OBJECT_INPUT'})) {
+    return 0;
+  }
+  var i = 0;
+  for (var key in obj) {
+    i++;
+  }
+  return i;
+}
+
+}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+text: {
+
+_latinMap: {"A":"ÀÁÂÃÄÅ","AE":"Æ","C":"Ç","E":"ÈÉÊË","I":"ÌÍÎÏ","N":"Ñ","O":"ÒÓÔÕÖØ","OE":"Œ","S":"Š","SS":"ẞ","U":"ÙÚÛÜ","Y":"ÝŸ","Z":"Ž","a":"àáâãäå","ae":"æ","c":"ç","e":"èéêë","i":"ìíîï","n":"ñ","o":"òóôõöø","oe":"œ","s":"š","ss":"ß","u":"ùúûü","y":"ýÿ","z":"ž"},
+
+_buildReverseLatinMap: function() {
+  var reverseLatinMap = {};
+  var latinMap = ADventori.text._latinMap;
+  for (var latinChar in latinMap) {
+    var accentChars = latinMap[latinChar];
+    for (var i = 0; i < accentChars.length; i++) {
+      reverseLatinMap[accentChars.charAt(i)] = latinChar;
+    }
+  }
+  return reverseLatinMap;
+},
+
+latinize: function(str) {
+  if (!ADventori.assert._checkArgs(typeof str == 'string', {name: 'text.latinize', message: 'NO_STRING_INPUT'})) {
+    return '';
+  }
+  var reverseLatinMap = ADventori.text._reverseLatinMap = ADventori.text._reverseLatinMap || ADventori.text._buildReverseLatinMap();
+  return str.replace(/[^\w\s-]/g, function(a) {
+    return reverseLatinMap[a] || a;
+  });
+},
+
+capitalize: function(str) {
+  if (!ADventori.assert._checkArgs(typeof str == 'string', {name: 'text.capitalize', message: 'NO_STRING_INPUT'})) {
+    return '';
+  }
+  return str.charAt(0).toUpperCase() + str.slice(1);
+},
+
+capitalizeWords: function(str) {
+  if (!ADventori.assert._checkArgs(typeof str == 'string', {name: 'text.capitalizeWords', message: 'NO_STRING_INPUT'})) {
+    return '';
+  }
+  return str.replace(/[^\s-]+/g, ADventori.text.capitalize);
+},
+
+trim: function(str) {
+  if (!ADventori.assert._checkArgs(typeof str == 'string', {name: 'text.trim', message: 'NO_STRING_INPUT'})) {
+    return '';
+  }
+  return str.replace(/^[\s\xa0]+|[\s\xa0]+$/g, '');
+}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+number: {
+
+
+defaultLocaleOptions: {
+  minIntegerDigits: 1,
+  minFractionDigits: 0,
+  maxFractionDigits: 2,
+  thousandSeparator: ' ',
+  decimalSeparator: ','
+},
+
+
+parse: function(str, opts) {
+  if (!ADventori.assert._checkArgs(typeof str == 'string', {name: 'number.parse', message: 'NO_STRING_INPUT'})) {
+    return NaN;
+  }
+  opts = _extend({}, ADventori.number.defaultLocaleOptions, opts);
+  str = opts.thousandSeparator ? str.split(opts.thousandSeparator).join('') : str;
+  str = opts.decimalSeparator ? str.replace(opts.decimalSeparator, '.') : str;
+  return parseFloat(str);
+},
+
+
+format: function(num, opts) {
+  if (!ADventori.assert._checkArgs(typeof num == 'number' || typeof num == 'string', {name: 'number.format', message: 'NO_NUMBER_OR_STRING_INPUT'})) {
+    return '';
+  }
+  num = num + '';
+  if (!/^\-?\d+(\.\d+)?$/.test(num)) {
+    return '';
+  }
+  opts = _extend({}, ADventori.number.defaultLocaleOptions, opts);
+  var numParts = num.split('.');
+  var intPart = numParts[0] || '';
+  var fracPart = numParts[1] || '';
+  var sign = intPart.charAt(0) == '-' ? '-' : '';
+  intPart = sign ? intPart.slice(1) : intPart;
+  fracPart = fracPart.length < +opts.minFractionDigits ? fracPart + new Array(+opts.minFractionDigits - fracPart.length + 1).join('0') :
+    fracPart.length > +opts.maxFractionDigits ?
+      +opts.maxFractionDigits > 0 ? fracPart.slice(0, +opts.maxFractionDigits - 1) + (+fracPart.charAt(+opts.maxFractionDigits - 1) + (+fracPart.charAt(+opts.maxFractionDigits) >= 5 ? 1 : 0)) :
+        (intPart = intPart.slice(0, intPart.length - 1) + (+intPart.charAt(intPart.length - 1) + (+fracPart.charAt(0) >= 5 ? 1 : 0)), '') :
+    fracPart;
+  intPart = intPart.length < +opts.minIntegerDigits ? new Array(+opts.minIntegerDigits - intPart.length + 1).join('0') + intPart : intPart;
+  intPart = opts.thousandSeparator ? intPart.replace(/\B(?=(\d{3})+(?!\d))/g, opts.thousandSeparator) : intPart;
+  return sign + (fracPart ? [intPart, fracPart].join(opts.decimalSeparator || '.') : intPart);
+}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+date: {
+
+
+now: function() {
+  return new _Date(ADventori.data.track.timestamp);
+},
+
+
+parse: function(str) {
+  if (!ADventori.assert._checkArgs(typeof str == 'string', {name: 'date.parse', message: 'NO_STRING_INPUT'})) {
+    return new _Date(NaN);
+  }
+  var struct, numKeys = [1, 4, 5, 6, 7, 10, 11];
+  //              1 YYYY                2 MM       3 DD           4 HH    5 mm       6 ss        7 msec        8 Z 9 ±    10 tzHH    11 tzmm
+  if (!(struct = /^(\d{4}|[+\-]\d{6})(?:-(\d{2})(?:-(\d{2}))?)?(?:T(\d{2}):(\d{2})(?::(\d{2})(?:\.(\d{3}))?)?(?:(Z)|([+\-])(\d{2})(?::?(\d{2}))?)?)?$/.exec(str))) {
+    return new _Date(NaN);
+  }
+  for (var i = 0, k; (k = numKeys[i]); ++i) {
+    struct[k] = +struct[k] || 0;
+  }
+  struct[2] = (+struct[2] || 1) - 1;
+  struct[3] = +struct[3] || 1;
+  if (!struct[8] && !struct[9]) {
+    return new _Date(struct[1], struct[2], struct[3], struct[4], struct[5], struct[6], struct[7]);
+  } else {
+    var mOff = struct[8] !== 'Z' && struct[9] ? (struct[9] === '+' ? -1 : 1) * (struct[10] * 60 + struct[11]) : 0;
+    return new _Date(_Date.UTC(struct[1], struct[2], struct[3], struct[4], struct[5] + mOff, struct[6], struct[7]));
+  }
+}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+geo: {
+
+earthRadius: 6378700,
+
+_toRad: function(deg) {
+  return (+deg) * Math.PI / 180;
+},
+
+
+distance: function(latLng1, latLng2) {
+  if (!ADventori.assert._checkArgs(latLng1 != null && latLng1.lat != null && latLng1.lng != null && latLng2 != null && latLng2.lat != null && latLng2.lng != null, {name: 'geo.distance', message: 'NO_LATLNG_INPUT'})) {
+    return NaN;
+  }
+  var _toRad = ADventori.geo._toRad;
+  var lat1 = _toRad(latLng1.lat);
+  var lng1 = _toRad(latLng1.lng);
+  var lat2 = _toRad(latLng2.lat);
+  var lng2 = _toRad(latLng2.lng);
+  var x = (lng2 - lng1) * Math.cos((lat1 + lat2) / 2);
+  var y = (lat2 - lat1);
+  return Math.sqrt(x * x + y * y) * ADventori.geo.earthRadius;
+}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+proxy: {
+
+
+toResizedImageUrl: function(imageUrl, sizeStr, extension) {
+  if (!ADventori.assert._checkArgs(typeof imageUrl == 'string' && typeof sizeStr == 'string' && typeof extension == 'string' && imageUrl && sizeStr && extension, {name: 'proxy.toResizedImageUrl', message: 'NO_STRING_INPUT'})) {
+    return '';
+  }
+  if (!/^\/i\/.*\/original\//.test(imageUrl)) {
+    return imageUrl;
+  }
+  return imageUrl.replace('/original/', '/' + sizeStr + '/') + '.' + extension;
+}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+rand: {
+
+
+getInt: function(min, max, _seed) {
+  ADventori.assert._checkArgs(min != null && max != null, {name: 'rand.getInt', message: 'NO_INPUT'});
+  _seed = _seed != null ? _seed : Math.random();
+  min = Math.ceil(+min);
+  max = Math.floor(+max);
+  return Math.floor(_seed * (max - min + 1)) + min;
+},
+
+
+getFloat: function(min, max, _seed) {
+  ADventori.assert._checkArgs(min != null && max != null, {name: 'rand.getFloat', message: 'NO_INPUT'});
+  _seed = _seed != null ? _seed : Math.random();
+  min = (+min);
+  max = (+max);
+  return (_seed * (max - min)) + min;
+},
+
+
+getElement: function(seq, _seed) {
+  ADventori.assert._checkArgs(seq != null, {name: 'rand.getElement', message: 'NO_INPUT'});
+  var key, keys;
+  keys = _utils.map(seq, function(value, key) {
+    return key;
+  });
+  key = keys[ADventori.rand.getInt(0, keys.length - 1, _seed)];
+  ADventori.assert._checkArgs(key != null, {name: 'rand.getElement', message: 'NO_RESULT_KEY'});
+  return seq[key];
+},
+
+
+getWeightedElement: function(seq, weights, _seed) {
+  ADventori.assert._checkArgs(seq != null && weights != null, {name: 'rand.getWeightedElement', message: 'NO_INPUT'});
+  var key, keys, weightKeys, cumWeight, cumWeights, cumIndex, i;
+  keys = _utils.map(seq, function(value, key) {
+    return key;
+  });
+  weightKeys = _utils.map(weights, function(value, key) {
+    return key;
+  });
+  ADventori.assert._checkArgs(keys.length === weightKeys.length, {name: 'rand.getWeightedElement', message: ['INVALID_WEIGHTS', keys.length, weightKeys.length].join(',')});
+  cumWeight = 0;
+  cumWeights = _utils.map(weights, function(value) {
+    return (cumWeight += (+value));
+  });
+  cumIndex = ADventori.rand.getFloat(0, cumWeight, _seed);
+  for (i = 0; i < cumWeights.length && cumWeights[i] < cumIndex; i++) {}
+  key = weightKeys[i];
+  ADventori.assert._checkArgs(key != null, {name: 'rand.getWeightedElement', message: 'NO_RESULT_KEY'});
+  return seq[key];
+},
+
+
+sample: function(seq, k) {
+  ADventori.assert._checkArgs(seq != null && k != null, {name: 'rand.sample', message: 'NO_INPUT'});
+  var keys = _utils.map(seq, function(value, key) {
+    return key;
+  });
+  return _utils.map(ADventori.rand.shuffle(keys).slice(0, k), function(keyVal) {
+    return [seq[keyVal]];
+  });
+},
+
+
+shuffle: function(o) {
+  if (!ADventori.assert._checkArgs(o != null && _utils._isArray(o), {name: 'rand.shuffle', message: 'NO_ARRAY_INPUT'})) {
+    return [];
+  }
+  o = o.slice();
+  for (var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+  return o;
+}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+pools: {
+
+_defaultKey: '_default',
+
+seed: ADventori.data.track.uiHash,
+
+
+_computeSeed: function(key) {
+  ADventori.assert._checkArgs(key && typeof key == 'string', {name: 'pools._computeSeed', message: 'NO_VARIATION_INPUT'});
+  key = (key != null ? (key + '') : '');
+  return (ADventori.hash.murmur3_32(key || ADventori.pools._defaultKey, +ADventori.pools.seed) / (_MAX_UNSIGNED_INT + 1));
+},
+
+
+getInt: function(min, max, key) {
+  return ADventori.rand.getInt(min, max, ADventori.pools._computeSeed(key));
+},
+
+
+getFloat: function(min, max, key) {
+  return ADventori.rand.getFloat(min, max, ADventori.pools._computeSeed(key));
+},
+
+
+getElement: function(seq, key) {
+  return ADventori.rand.getElement(seq, ADventori.pools._computeSeed(key));
+},
+
+
+getWeightedElement: function(seq, weights, key) {
+  return ADventori.rand.getWeightedElement(seq, weights, ADventori.pools._computeSeed(key));
+}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+hash: {
+
+
+murmur3_32: function(a,b){var c,d,e,f,g,i,k,l;for(c=3&a.length,d=a.length-c,e=b,g=3432918353,i=461845907,l=0;l<d;)k=255&a.charCodeAt(l)|(255&a.charCodeAt(++l))<<8|(255&a.charCodeAt(++l))<<16|(255&a.charCodeAt(++l))<<24,++l,k=(65535&k)*g+(((k>>>16)*g&65535)<<16)&4294967295,k=k<<15|k>>>17,k=(65535&k)*i+(((k>>>16)*i&65535)<<16)&4294967295,e^=k,e=e<<13|e>>>19,f=5*(65535&e)+((5*(e>>>16)&65535)<<16)&4294967295,e=(65535&f)+27492+(((f>>>16)+58964&65535)<<16);switch(k=0,c){case 3:k^=(255&a.charCodeAt(l+2))<<16;case 2:k^=(255&a.charCodeAt(l+1))<<8;case 1:k^=255&a.charCodeAt(l),k=(65535&k)*g+(((k>>>16)*g&65535)<<16)&4294967295,k=k<<15|k>>>17,k=(65535&k)*i+(((k>>>16)*i&65535)<<16)&4294967295,e^=k}return e^=a.length,e^=e>>>16,e=2246822507*(65535&e)+((2246822507*(e>>>16)&65535)<<16)&4294967295,e^=e>>>13,e=3266489909*(65535&e)+((3266489909*(e>>>16)&65535)<<16)&4294967295,e^=e>>>16,e>>>0}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+env: {
+
+browser: (function() {
+  var name = (
+    /Edge|EdgA|EdgiOS/i.test(_ua) ? 'edge' :
+    /MSIE|Trident/i.test(_ua) ? 'ie' :
+    /Firefox|FxiOS/i.test(_ua) ? 'firefox' :
+    /Opera|OPR|OPiOS/i.test(_ua) ? 'opera' :
+    /Chrome|CriOS/i.test(_ua) ? 'chrome' :
+    /Safari/i.test(_ua) ? 'safari' :
+    'other'
+  );
+  var version = (
+    name == 'ie' ? parseFloat((/(MSIE +|Trident.*rv[ :] *)([\d\.]+)/i.exec(_ua) || [])[2]) :
+    null
+  );
+  return {
+    name: name,
+    version: version
+  };
+})(),
+
+os: {
+  name: (
+    /windows (ce|phone)|XBLWP7/i.test(_ua) ? 'windowsPhone' :
+    /iphone|ipad|ipod/i.test(_ua) ? 'ios' :
+    /android/i.test(_ua) ? 'android' :
+    /blackberry|playbook|bb\d+|rim[0-9]/i.test(_ua) ? 'blackberry' :
+    /windows|win32/i.test(_ua) ? 'windows' :
+    /macintosh|mac os/i.test(_ua) ? 'mac' :
+    /linux/i.test(_ua) ? 'linux' :
+    'other'
+  )
+},
+
+device: {
+  type: (
+    /tablet|ipad|android(?!.+mobi)/i.test(_ua) ? 'tablet' :
+    /mobi|mini/i.test(_ua) ? 'mobile' :
+    /tv/i.test(_ua) ? 'tv' :
+    'desktop'
+  )
+},
+
+flash: {
+  enabled: true,
+  _buildVersion: function() {
+    return ADventori.track.attempt(function() {
+      var version;
+      var d = function(c) {(c = c.match(/[\d]+/g)) && (version = c.join('.'))};
+      if (_nav && _nav.plugins && _nav.plugins.length) {
+        var e = _nav.plugins['Shockwave Flash'];
+        (e && e.description && d(e.description));
+      } else if (_nav && _nav.mimeTypes && _nav.mimeTypes.length) {
+        var f = _nav.mimeTypes['application/x-shockwave-flash'];
+        (f && f.enabledPlugin && d(f.enabledPlugin.description));
+      } else if (window.ActiveXObject) {
+        try {d(new ActiveXObject('ShockwaveFlash.ShockwaveFlash').GetVariable('$version'));}catch(h){}
+      }
+      return version;
+    }, 'flash._buildVersion', 'AdErrorEnv') || '0.0.0';
+  },
+  getVersion: function() {
+    if (!ADventori.env.flash.enabled) {
+      return '0.0.0';
+    }
+    var version = ADventori.env.flash._version = ADventori.env.flash._version || ADventori.env.flash._buildVersion();
+    return version;
+  },
+  hasVersion: function(v) {
+    var pv = ADventori.env.flash.getVersion();
+    pv = pv.split('.');
+    v = v.split('.');
+    pv = [parseInt(pv[0], 10), parseInt(pv[1], 10) || 0, parseInt(pv[2], 10) || 0];
+    v = [parseInt(v[0], 10), parseInt(v[1], 10) || 0, parseInt(v[2], 10) || 0];
+    return (pv[0] > v[0] || (pv[0] == v[0] && pv[1] > v[1]) || (pv[0] == v[0] && pv[1] == v[1] && pv[2] >= v[2]));
+  }
+}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+doc: {
+
+url: {
+  get: function(win, n) {
+    if (typeof win === 'string') {n = win; win = window;}
+    var params = ADventori.track.attempt(function() {
+      return _utils.fromQueryString(win.location.search.slice(1));
+    }, 'doc.url', 'AdErrorEnv') || {};
+    return params[n];
+  }
+}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+dom: {
+
+_guid: 1,
+_guidKey: 'ADventori_dom_guid',
+_listeners: {},
+_ready: false,
+
+
+addEventListener: function(el, type, fn) {
+  try {
+    var guidKey = ADventori.dom._guidKey;
+    el[guidKey] = el[guidKey] || ADventori.dom._guid++;
+    fn[guidKey] = fn[guidKey] || ADventori.dom._guid++;
+    var listenerId = [type, el[guidKey], fn[guidKey]].join('_');
+    if (!ADventori.dom._listeners[listenerId]) {
+      var eventListener = ADventori.dom._listeners[listenerId] = function(e) {
+        ADventori.track.attempt(_utils._bind(fn, el, [e || window.event].concat(_slice.call(arguments, 1))), 'event_' + type);
+      };
+      if (el.addEventListener) {
+        el.addEventListener(type, eventListener, false);
+      } else if (el.attachEvent) {
+        el.attachEvent('on' + type, eventListener);
+      }
+    }
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+},
+
+removeEventListener: function(el, type, fn) {
+  try {
+    var guidKey = ADventori.dom._guidKey;
+    var listenerId = [type, el[guidKey], fn[guidKey]].join('_');
+    var eventListener = ADventori.dom._listeners[listenerId];
+    if (eventListener) {
+      if (el.removeEventListener) {
+        el.removeEventListener(type, eventListener, false);
+      } else if (el.detachEvent) {
+        el.detachEvent('on' + type, eventListener);
+      }
+      ADventori.dom._listeners[listenerId] = null;
+    }
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+},
+
+
+getDocument: function(el) {
+  try {
+    return el.ownerDocument;
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+},
+
+
+getWindow: function(doc) {
+  try {
+    return (doc.defaultView || doc.parentWindow);
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+},
+
+
+createElement: function(doc, tagName, attrs) {
+  if (typeof doc === 'string') {attrs = tagName; tagName = doc; doc = document;}
+  try {
+    var el = doc.createElement(tagName);
+    _utils.each(attrs, function(key, value) {
+      if (value != null) {
+        if (key == 'on') {
+          _utils.each(value, function(key, value) {
+            ADventori.dom.addEventListener(el, key, value);
+          });
+        } else if (key == 'style') {
+          if (_utils._isPlainObject(value)) {
+            _utils.each(value, function(key, value) {
+              el.style[key] = value;
+            });
+          } else {
+            el.style.cssText = value;
+          }
+        } else if (key == 'class') {
+          el.className = value;
+        } else {
+          el.setAttribute(key, value);
+        }
+      }
+    });
+    return el;
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+},
+
+
+createHtml: function(tagName, attrs, innerHtml) {
+  try {
+    var html = [];
+    html.push('<' + tagName);
+    _utils.each(attrs, function(key, value) {
+      html.push(' ' + key + (value != null ? ('="' + (value + '').replace(/[&<>"'`]/g, function(chr) {
+        return ({
+          '&': '&amp;',
+          '<': '&lt;',
+          '>': '&gt;',
+          '"': '&quot;',
+          "'": '&#39;',
+          '`': '&#96;'
+        })[chr];
+      }) + '"') : ''));
+    });
+    html.push(innerHtml !== null ? ('>' + (innerHtml != undefined ? innerHtml : '') + '<' + '/' + tagName + '>') : (' />'));
+    return html.join('');
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+},
+
+
+
+createSwf: function(doc, url, params, attrs) {
+  if (typeof doc === 'string') {attrs = params; params = url; url = doc; doc = document;}
+  ADventori.assert.isValidUrlSecure(url);
+  try {
+    var isActiveX = window.ActiveXObject;
+    var swfParams = _extend(isActiveX ? {movie: url} : {}, params);
+    var swfParamsHtml = _utils.map(swfParams, function(value, key) {
+      return ADventori.dom.createHtml('param', {name: key, value: value}, null);
+    }).join('');
+    var swfAttrs = _extend({
+      type: 'application/x-shockwave-flash'
+    }, isActiveX ? {} : {
+      data: url
+    }, attrs);
+    var swfObjectHtml = ADventori.dom.createHtml('object', swfAttrs, swfParamsHtml);
+    var swfObjectDiv = doc.createElement('div');
+    swfObjectDiv.innerHTML = swfObjectHtml;
+    return swfObjectDiv.firstChild;
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+},
+
+
+writeHtml: function(doc, code) {
+  if (typeof doc === 'string') {code = doc; doc = document;}
+  if (!ADventori.assert._checkArgs(!ADventori.dom._ready, {name: 'dom.writeHtml', message: ['WRITE_ASYNC', doc && 'doc'].join(',')}, 'AdErrorDom')) {
+    return;
+  }
+  ADventori.track.attempt(function() {
+    doc.write(code);
+  }, 'dom.writeHtml', 'AdErrorDom');
+},
+
+
+writeScript: function(doc, url, attrs) {
+  if (typeof doc === 'string') {attrs = url; url = doc; doc = document;}
+  ADventori.assert.isValidUrlSecure(url);
+  try {
+    ADventori.dom.writeHtml(doc, ADventori.dom.createHtml('script', _extend({
+      charset: 'utf-8',
+      src: url
+    }, attrs)));
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+},
+
+
+getScript: function(doc, url, attrs) {
+  if (typeof doc === 'string') {attrs = url; url = doc; doc = document;}
+  ADventori.assert.isValidUrlSecure(url);
+  try {
+    var debugStackCopy = debug.stack.slice();
+    var head = doc.head || doc.getElementsByTagName('head')[0] || doc.documentElement,
+      sc = doc.getElementsByTagName('script')[0],
+      s = _extend(doc.createElement('script'), {
+        onload: function() {
+          debug.queue.push(['loadScript', arguments, debugStackCopy]);
+        },
+        onerror: function() {
+          debug.queue.push(['errorScript', arguments, debugStackCopy]);
+        },
+        async: true,
+        charset: 'utf-8',
+        src: url
+      }, attrs);
+    if (sc) {
+      sc.parentNode.insertBefore(s, sc);
+    } else if (head) {
+      head.insertBefore(s, head.firstChild);
+    } else {
+      throw ({name: 'dom.getScript', message: [doc && 'doc', head && 'head', sc && 'sc', s && 's', url].join(',')});
+    }
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+},
+
+
+evalScript: function(doc, code, attrs) {
+  if (typeof doc === 'string') {attrs = code; code = doc; doc = document;}
+  try {
+    var head = doc.head || doc.getElementsByTagName('head')[0] || doc.documentElement,
+      sc = doc.getElementsByTagName('script')[0],
+      s = _extend(doc.createElement('script'), attrs);
+    try {
+      s.appendChild(doc.createTextNode(code));
+    } catch(e) {
+      s.text = code;
+    }
+    if (sc) {
+      sc.parentNode.insertBefore(s, sc);
+    } else if (head) {
+      head.insertBefore(s, head.firstChild);
+    } else {
+      throw ({name: 'dom.evalScript', message: [doc && 'doc', head && 'head', sc && 'sc', s && 's', typeof code].join(',')});
+    }
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+},
+
+
+evalStyle: function(doc, code, attrs) {
+  if (typeof doc === 'string') {attrs = code; code = doc; doc = document;}
+  try {
+    var head = doc.head || doc.getElementsByTagName('head')[0] || doc.documentElement,
+      s = _extend(doc.createElement('style'), {type: 'text/css'}, attrs);
+    try {
+      s.appendChild(doc.createTextNode(code));
+    } catch(e) {
+      s.styleSheet.cssText = code;
+    }
+    if (head) {
+      head.insertBefore(s, head.firstChild);
+    } else {
+      throw ({name: 'dom.evalStyle', message: [doc && 'doc', head && 'head', s && 's', typeof code].join(',')});
+    }
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+},
+
+
+firePixel: function(url, attrs) {
+  ADventori.assert.isValidUrlSecure(url);
+  try {
+    var debugStackCopy = debug.stack.slice();
+    return _extend(document.createElement('img'), {
+      onload: function() {
+        debug.queue.push(['loadPixel', arguments, debugStackCopy]);
+      },
+      onerror: function() {
+        debug.queue.push(['errorPixel', arguments, debugStackCopy]);
+      },
+      width: 1,
+      height: 1,
+      src: url
+    }, attrs);
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+},
+
+
+open: function(url) {
+  ADventori.assert.isValidUrl(url);
+  if (!url) {
+    return 'no_url';
+  }
+  try {
+    var win = window;
+    var useWindowOpen = typeof win.open == 'function' || !(win.constructor && win.constructor.prototype && typeof win.constructor.prototype.open == 'function');
+    var newWin = useWindowOpen ? win.open(url, '_blank') : win.constructor.prototype.open.apply(win, [url, '_blank']);
+    if (newWin) {
+      try {
+        newWin.opener = null;
+      } catch(e) {}
+    } else {
+      win.top.location.href = url;
+    }
+    return (newWin != null && newWin == newWin.window ? 'window' : (newWin + ''));
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorOpen');
+    return 'error';
+  }
+},
+
+
+
+onReady: function(win, fn) {
+  if (typeof win === 'function') {fn = win; win = window;}
+  try {
+    var doc = win.document;
+    var readyFn = function() {
+      if (!doc.body) {
+        ADventori.track.setTimeout(readyFn, 0, 'ready');
+        return;
+      }
+      ADventori.dom._ready = true;
+      fn();
+    };
+    var completed = function(e) {
+      if (doc.addEventListener || e.type === 'load' || doc.readyState === 'complete') {
+        ADventori.dom.removeEventListener(doc, doc.addEventListener ? 'DOMContentLoaded' : 'readystatechange', completed);
+        ADventori.dom.removeEventListener(win, 'load', completed);
+        readyFn();
+      }
+    };
+    if (doc.readyState === 'complete') {
+      ADventori.track.setTimeout(readyFn, 0, 'ready');
+    } else {
+      ADventori.dom.addEventListener(doc, doc.addEventListener ? 'DOMContentLoaded' : 'readystatechange', completed);
+      ADventori.dom.addEventListener(win, 'load', completed);
+    }
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+},
+
+
+onWrite: function(win, fn) {
+  if (typeof win === 'function') {fn = win; win = window;}
+  try {
+    var doc = win.document;
+    var fnId = 'ADventori_fn_' + _utils.uniqueId();
+    win[fnId] = fn;
+    ADventori.dom.writeHtml(doc, ADventori.dom.createHtml('script', {}, 'window["' + fnId + '"](); window["' + fnId + '"] = null;'));
+  } catch(e) {
+    ADventori.track.error(e, 'AdErrorDom');
+  }
+}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+ext: {
+
+
+exec: function(data) {
+  return ADventori.track.attempt(function() {
+    var ad = ADventori._ads[data.id];
+    if (!ad) {
+      // ignore noise (calls from creas created by other wrappers)
+      return;
+    }
+    return ad.exec(data.cmd, _slice.call(data.args || []));
+  }, ['ext.exec', data && data.cmd].join('_'), 'AdErrorExec');
+},
+
+
+execCrea: function(data) {
+  return ADventori.track.attempt(function() {
+    var ad = ADventori._ads[data.id];
+    if (!ad) {
+      throw ({name: 'ext.execCrea', message: ['INVALID_ID', data && data.id].join(',')});
+    }
+    var conf = ad.conf;
+    var el = conf.processed.dom['adElement'];
+    if (!el) {
+      throw ({name: 'ext.execCrea', message: ['NO_ELEMENT'].join(',')});
+    }
+    if (conf.processed['displayFormat'] == 'HTML') {
+      var _contentWindow;
+      try {
+        _contentWindow = el.contentWindow;
+      } catch(e) {}
+      if (_contentWindow) {
+        return ADventori.ext.sendMessage(_contentWindow, data);
+      }
+    }
+    return false;
+  }, ['ext.execCrea', data && data.cmd].join('_'), 'AdErrorExec') || false;
+},
+
+
+receiveMessage: function(e) {
+  ADventori.track.attempt(function() {
+    var protocol = 'ADventori:';
+    if (!(typeof e.data === 'string' && e.data.slice(0, protocol.length) === protocol)) {
+      // ignore noise (messages not coming from ADventori)
+      return;
+    }
+    var data = _JSON.parse(e.data.slice(protocol.length));
+    ADventori.ext.exec(data);
+  }, ['ext.receiveMessage', e && e.origin].join('_'), 'AdErrorMessage');
+},
+
+
+sendMessage: function(win, data) {
+  return ADventori.track.attempt(function() {
+    var protocol = 'ADventori:';
+    win.postMessage(protocol + _JSON.stringify({
+      id: data.id,
+      cmd: data.cmd,
+      args: _slice.call(data.args || [])
+    }), '*');
+    return true;
+  }, ['ext.sendMessage', data && data.cmd].join('_'), 'AdErrorMessage') || false;
+},
+
+
+commands: {
+  "log": function() {
+    return debug.log.apply(null, arguments);
+  },
+  "error": function() {
+    return ADventori.track.error.apply(null, arguments);
+  },
+  "open": function() {
+    return ADventori.dom.open.apply(null, arguments);
+  },
+  "click": function() {
+    var args = [this.conf].concat(_slice.call(arguments));
+    this.attempt('trackClick', args);
+    this.attempt('fireClickTags', args);
+    this.attempt('onClick', args, 'AdErrorConf');
+  },
+  "creaInitData": function() {
+    var args = [this.conf].concat(_slice.call(arguments));
+    this.attempt('trackCreaInitData', args);
+    this.attempt('onCreaInitData', args, 'AdErrorConf');
+  },
+  "creaReady": function() {
+    var args = [this.conf].concat(_slice.call(arguments));
+    this.attempt('trackCreaReady', args);
+    this.attempt('onCreaReady', args, 'AdErrorConf');
+  },
+  "creaLoad": function() {
+    var args = [this.conf].concat(_slice.call(arguments));
+    this.attempt('trackCreaLoad', args);
+    this.attempt('triggerVisibleStateEvent', args);
+    this.attempt('onCreaLoad', args, 'AdErrorConf');
+  }
+}
+
+}
+
+});
+
+
+_extend(ADventori, {
+
+conf: {
+  "size": ADventori.data.size,
+  "campaign": ADventori.data.campaign['campaignId'],
+  "placement": ADventori.data.placement['placementId'],
+  "displayFormat": ADventori.data.placement['displayFormat'],
+  "displayTag": ADventori.data.placement['displayTag'],
+  "clickTag": ADventori.data.placement['clickTag'],
+  "clickTagEncoded": ADventori.data.placement.adServer.clickRedirectionEncoded,
+  "creaUrl": ADventori.data.placement['adUrl'],
+  "passbackUrl": ADventori.data.placement['passbackUrl'],
+  "backup": {
+    "creaUrl": ADventori.data.placement['imgUrl']
+  },
+  "displayCustom": false,
+  "displayPassback": false,
+  "displayBackup": false,
+  "defaultScenario": {
+    "_default": 'DEFAULT',
+    "backup": 'BACKUP_DEFAULT',
+    "passback": 'PASSBACK_DEFAULT',
+    "custom": 'CUSTOM_DEFAULT'
+  },
+  "paramScenario": {
+    "backup": 'BACKUP_PARAM',
+    "passback": 'PASSBACK_PARAM'
+  },
+  "scenario": null,
+  "statData": {},
+  "creaData": {},
+  "items_v4": {
+    "statItems": true,
+    "creaDataItemsKey": 'items',
+    "statDataItemsKey": 'items',
+    "defaultGroupName": '_default'
+  },
+  "macros": {},
+  "dom": {
+    "adAttrs": {},
+    "adStyle": {},
+    "containerAttrs": {},
+    "imgAttrs": {},
+    "imgStyle": {},
+    "imgLinkAttrs": {},
+    "imgLinkStyle": {},
+    "frameAttrs": {},
+    "frameStyle": {}
+  },
+  "run": {
+    "autoWrite": true,
+    "autoStart": ADventori.data.placement['autoStart'],
+    "autoStartPassback": 'WRITE'
+  },
+  "track": {
+    "event": {
+      "AdShow": 'AdShow',
+      "AdClick": 'AdClick',
+      "AdClickBis": 'AdClickBis',
+      "AdClickInfo": 'AdClickInfo',
+      "AdView": 'AdView'
+    },
+    "url": {
+      "clickTag": true,
+      "clickTagParam": true,
+      "itemUrl": true
+    },
+    "_info": {
+      "mouseEvents": [],
+      "creaInitData": 0,
+      "creaReady": 0,
+      "creaLoad": 0
+    }
+  },
+  "require": {
+    "ieVersion": ADventori.data.placement['ieMinVersion'],
+    "validators": {
+      "BACKUP_HTML_FOR_OLD_IE": function(conf) {
+        return !(conf['displayFormat'] == 'HTML' && ADventori.env.browser.name == 'ie' && ADventori.env.browser.version < +conf.require.ieVersion);
+      }
+    }
+  },
+  "commands": {},
+  "processed": {
+    "dom": {}
+  }
+},
+
+_conf: {
+  urls: {
+    "displayTag": true,
+    "displayTagScript": true,
+    "displayTagScriptWrite": true,
+    "clickTag": true,
+    "clickTagPxl": true,
+    "creaUrl": true,
+    "passbackUrl": true
+  },
+  array: {
+    "displayTag": true,
+    "displayTagScript": true,
+    "displayTagScriptWrite": true,
+    "clickTagPxl": true
+  },
+  displayFn: {
+    "CUSTOM": 'displayCustom',
+    "PASSBACK": 'displayPassback',
+    "IMAGE": 'displayImage',
+    "HTML": 'displayHtml'
+  }
+}
+
+});
+
+
+_extend(ADventori, {
+
+macros: {
+  pattern: /\[([^\[\]]+)\]/g,
+  defaults: {
+    "PROTOCOL": ADventori.data.request.protocol,
+    "HOSTNAME": ADventori.data.request.hostname,
+    "WIDTH": ADventori.data.size.width,
+    "HEIGHT": ADventori.data.size.height,
+    "SIZE": (ADventori.data.size.width + 'x' + ADventori.data.size.height),
+    "PLACEMENT": ADventori.data.placement['placementId'],
+    "TIMESTAMP": ADventori.data.track.timestamp,
+    "RANDOM": _utils.uniqueId()
+  },
+  
+  replace: function(str, macros) {
+    if (!ADventori.assert._checkArgs(typeof str == 'string', {name: 'macros.replace', message: 'NO_STRING_INPUT'})) {
+      return str;
+    }
+    macros = _extend({}, ADventori.macros.defaults, ADventori.conf.macros, macros);
+    return str.replace(ADventori.macros.pattern, function(match, p1) {
+      return (macros[p1] != null ? macros[p1] : match);
+    });
+  }
+}
+
+});
+
+
+_extend(ADventori, {
+
+
+start: function() {
+  ADventori.started = true;
+  ADventori.fn.attempt('runAll', [ADventori.conf]);
+},
+
+
+autoStart: function() {
+  var conf = ADventori.conf;
+  var isPassback = ADventori.data.params._scn == 'passback' || conf['displayPassback'] || conf['displayFormat'] == 'PASSBACK';
+  var autoStart = isPassback ? conf.run['autoStartPassback'] : conf.run['autoStart'];
+  var autoWrite = conf.run['autoWrite'];
+  if (autoWrite) {
+    ADventori.fn.attempt('writeContainer');
+  }
+  if (autoStart) {
+    var autoStartFn = function() {
+      ADventori.fn.attempt('processDomContainer');
+      ADventori.track.attempt(ADventori.fn.autoStart, 'fn.autoStart', 'AdErrorConf');
+    };
+    if (autoWrite) {
+      ADventori.dom.onWrite(window, autoStartFn);
+    } else {
+      autoStartFn();
+    }
+  }
+}
+
+});
+
+
+_extend(ADventori.fn, {
+
+
+attempt: function(fnName, args, trackerType, trackerProps, onError) {
+  return ADventori.track.attempt(_utils._bind(this[fnName], this, args), fnName, trackerType, trackerProps, onError);
+},
+
+
+exec: function(cmd, args) {
+  return ADventori.track.attempt(_utils._bind(function() {
+    debug.queue.push(['exec', arguments, debug.stack.slice()]);
+    var conf = this.conf;
+    var fn = typeof cmd == 'function' ? cmd : (ADventori.ext.commands[cmd] || conf.commands[cmd]);
+    if (!fn) {
+      throw ({name: 'fn.exec', message: ['INVALID_COMMAND', cmd, args].join(',')});
+    }
+    return ADventori.track.attempt(_utils._bind(fn, this, args), ['exec_cmd', typeof cmd == 'function' ? cmd.name : cmd].join('_'), 'AdErrorExec');
+  }, this, arguments), ['exec', cmd].join('_'), 'AdErrorExec');
+},
+
+
+execCrea: function(cmd, args) {
+  return ADventori.track.attempt(_utils._bind(function() {
+    debug.queue.push(['execCrea', arguments, debug.stack.slice()]);
+    return ADventori.ext.execCrea({
+      id: this.id,
+      cmd: cmd,
+      args: _slice.call(args || [])
+    });
+  }, this, arguments), ['execCrea', cmd].join('_'), 'AdErrorExec');
+},
+
+
+triggerCreaEvent: function(event, args) {
+  return ADventori.track.attempt(_utils._bind(function() {
+    if (this.conf.track._info['creaLoad']) {
+      return this.execCrea('event', [event, _slice.call(args || [])]);
+    }
+    return false;
+  }, this, arguments), ['triggerCreaEvent', event].join('_'), 'AdErrorExec');
+},
+
+
+click: function(url) {
+  return ADventori.track.attempt(_utils._bind(function() {
+    var conf = this.conf;
+    var clickTag = (conf.processed['clickTagStacked'] || '') + ADventori.macros.replace(url || '', conf.macros);
+    ADventori.assert.isValidUrl(clickTag, 'fn.click');
+    if (!clickTag) {
+      return;
+    }
+    var open = this.exec('open', [clickTag]);
+    this.exec('click', [{
+      "open": open
+    }]);
+  }, this, arguments), ['click', url].join('_'), 'AdErrorExec');
+}
+
+});
+
+_extend(ADventori.fn, {
+
+
+start: function() {
+  this.started = true;
+  this.attempt('runAd', [this.conf]);
+},
+
+autoStart: function() {
+  var conf = ADventori.conf;
+  var isPassback = ADventori.data.params._scn == 'passback' || conf['displayPassback'] || conf['displayFormat'] == 'PASSBACK';
+  var autoStart = isPassback ? conf.run['autoStartPassback'] : conf.run['autoStart'];
+  var startFn = function() {
+    ADventori.track.attempt(ADventori.start, 'start');
+  };
+  if (typeof autoStart == 'function') {
+    autoStart();
+  } else if ((autoStart + '').toUpperCase() == 'WRITE') {
+    startFn();
+  } else if ((autoStart + '').toUpperCase() == 'READY') {
+    var w = window;
+    try {
+      for (; w != w.top; w = w.parent) {(w.parent.document.domain)}
+    } catch(e) {}
+    ADventori.dom.onReady(w, startFn);
+  }
+},
+
+
+writeContainer: function() {
+  var conf = ADventori.conf;
+  conf.processed.dom['containerId'] = conf.processed.dom['containerId'] || ('ADventori_ads_div_' + ADventori.id);
+  
+  var stubDivHtml = ADventori.dom.createHtml('div', {style: 'display: none;'}, '&nbsp;');
+  var containerHtml = ADventori.dom.createHtml('div', _extend({
+    id: conf.processed.dom['containerId'],
+    style: 'margin: 0; padding: 0; border: 0;'
+  }, conf.dom['containerAttrs']), stubDivHtml);
+  ADventori.dom.writeHtml(document, containerHtml);
+},
+
+
+processDomContainer: function() {
+  var conf = ADventori.conf;
+  conf.processed.dom['container'] = conf.processed.dom['container'] || (conf.processed.dom['containerId'] && document.getElementById(conf.processed.dom['containerId'])) || null;
+},
+
+runAll: function(conf) {
+  this.attempt('processDomContainer');
+  this.attempt('onStart', arguments, 'AdErrorConf');
+  this.attempt('runAds', arguments);
+  this.attempt('onEnd', arguments, 'AdErrorConf');
+},
+
+runAds: function(conf) {
+  ADventori.ads = ADventori.ads || [new ADventori(conf)];
+  _utils.each(ADventori.ads, function(i, ad) {
+    ADventori.track.attempt(function() {
+      ad.start();
+    }, 'runAd_' + i);
+  });
+},
+
+runAd: function(conf) {
+  this.attempt('onAdStart', arguments, 'AdErrorConf');
+  this.attempt('processConf', arguments);
+  this.attempt('setupMessage', arguments);
+  this.attempt('onConfProcessed', arguments, 'AdErrorConf');
+  this.attempt('displayAd', arguments);
+  this.attempt('onDisplay', arguments, 'AdErrorConf');
+  this.attempt('trackShow', arguments);
+  this.attempt('fireDisplayTags', arguments);
+  this.attempt('onAdEnd', arguments, 'AdErrorConf');
+  this.attempt('startViewability', arguments);
+},
+
+
+processConf: function(conf) {
+  this.attempt('processScenario', arguments);
+  this.attempt('processUrls', arguments);
+  this.attempt('processClickTag', arguments);
+  this.attempt('processStatData', arguments);
+  this.attempt('processCreaData', arguments);
+  this.attempt('processDom', arguments);
+},
+
+
+processScenario: function(conf) {
+  var self = this;
+  var args = arguments;
+  var paramScenario = ADventori.data.params._scn;
+  var isCustom = conf['displayCustom'] || conf['displayFormat'] == 'CUSTOM';
+  var isPassback = paramScenario == 'passback' || conf['displayPassback'] || conf['displayFormat'] == 'PASSBACK';
+  var isBackup = paramScenario == 'backup' || conf['displayBackup'] || conf['displayFormat'] == 'IMAGE';
+
+  if (isCustom) {
+    conf.processed['displayCustom'] = true;
+    conf.processed['displayFormat'] = 'CUSTOM';
+    conf.processed['scenario'] = (
+      conf['scenario'] ? conf['scenario'] :
+      typeof conf['displayCustom'] == 'string' ? conf['displayCustom'] :
+      conf.defaultScenario['custom']
+    );
+  } else if (isPassback) {
+    conf.processed['displayPassback'] = true;
+    conf.processed['displayBackup'] = conf['displayBackup'];
+    conf.processed['displayFormat'] = 'PASSBACK';
+    conf.processed['scenario'] = (
+      paramScenario == 'passback' ? conf.paramScenario['passback'] :
+      conf['scenario'] ? conf['scenario'] :
+      typeof conf['displayPassback'] == 'string' ? conf['displayPassback'] :
+      conf.defaultScenario['passback']
+    );
+  } else if (isBackup) {
+    conf.processed['displayBackup'] = true;
+    conf.processed['displayFormat'] = 'IMAGE';
+    conf.processed['scenario'] = (
+      paramScenario == 'backup' ? conf.paramScenario['backup'] :
+      conf['scenario'] ? conf['scenario'] :
+      typeof conf['displayBackup'] == 'string' ? conf['displayBackup'] :
+      conf.defaultScenario['backup']
+    );
+  } else {
+    var validationErrors = _utils.map(conf.require.validators, function(value, key) {
+      var val = ADventori.track.attempt(_utils._bind(value, self, args), 'conf.require.validators.' + key, 'AdErrorConf');
+      return (
+        (typeof val == 'string') ? val :
+        val === false ? key :
+        null
+      );
+    });
+    if (validationErrors.length > 0) {
+      conf.processed['displayBackup'] = true;
+      conf.processed['displayFormat'] = 'IMAGE';
+      conf.processed['scenario'] = validationErrors[0];
+    } else {
+      conf.processed['displayDefault'] = true;
+      conf.processed['displayFormat'] = conf['displayFormat'];
+      conf.processed['scenario'] = (
+        (conf.items && conf.items.getScenario(conf)) || (
+          conf['scenario'] ? conf['scenario'] :
+          conf.defaultScenario['_default']
+        )
+      );
+    }
+  }
+
+  ADventori.assert._checkArgs(conf.processed['scenario'] && typeof conf.processed['scenario'] == 'string', 'NO_SCENARIO', 'AdErrorScenario');
+  if (conf.processed['scenario']) {
+    debug.queue.push(['scenario', arguments, debug.stack.slice()]);
+  }
+},
+
+
+processUrls: function(conf) {
+  _utils.each(ADventori._conf.urls, function(key, value) {
+    if (value) {
+      var url = (
+        (conf.processed['displayBackup'] && conf.backup[key] != null) ? conf.backup[key] :
+        conf[key]
+      );
+      if (ADventori._conf.array[key]) {
+        url = url != null ? _utils.map([].concat(url), function(url) {
+          return (url && ADventori.macros.replace(url, conf.macros));
+        }) : [];
+      } else {
+        url = (url && ADventori.macros.replace(url, conf.macros));
+      }
+      conf.processed[key] = url;
+    }
+  });
+},
+
+
+processClickTag: function(conf) {
+  conf.processed['clickTagParam'] = ADventori.data.params.URL || ADventori.data.params.clickTag;
+  if (conf.track.url['clickTagParam'] && conf.processed['clickTagParam']) {
+    ADventori.assert.isValidUrl(conf.processed['clickTagParam'], 'clickTagParam');
+  }
+  if (conf.track.url['clickTag']) {
+    ADventori.assert.isValidUrl(conf.processed['clickTag'], 'clickTag');
+  }
+  var clickTag = conf.processed['clickTag'] || '';
+  if (conf.clickTagEncoded){
+    clickTag = _utils._encode(clickTag);
+  }
+  var clickTagStacked = (conf.processed['clickTagParam'] || '') + clickTag;
+  conf.processed['clickTagStacked'] = ADventori.track.toUrlClickRedirect(conf.track.event['AdClick'], {
+    "urlClick": null
+  }, clickTagStacked);
+},
+
+
+processStatItems: function(conf) {
+  if (conf.items_v4.statItems) {
+    var hasCreaDataItems = (conf.creaData && conf.items_v4.creaDataItemsKey && (conf.items_v4.creaDataItemsKey in conf.creaData));
+    var hasStatDataItems = (conf.statData && conf.items_v4.statDataItemsKey && (conf.items_v4.statDataItemsKey in conf.statData));
+    if (hasCreaDataItems || hasStatDataItems) {
+      var items = hasCreaDataItems ? conf.creaData[conf.items_v4.creaDataItemsKey] : conf.statData[conf.items_v4.statDataItemsKey];
+      var itemIdsByGroupName = {};
+      var itemIds = [];
+      ADventori.assert._checkArgs(items && _utils._isArray(items) && items.length > 0, 'NO_ITEMS_ARRAY', 'AdErrorConfItems');
+      _utils.each(items, function(i, item) {
+        ADventori.assert._checkArgs(item, 'NO_ITEM', 'AdErrorConfItems');
+        if (item) {
+          ADventori.assert._checkArgs(item.id, 'NO_ITEM_ID', 'AdErrorConfItems');
+          ADventori.assert._checkArgs(item.groupName, 'NO_ITEM_GROUPNAME', 'AdErrorConfItems');
+          ADventori.assert._checkArgs(item.data, 'NO_ITEM_DATA', 'AdErrorConfItems');
+          if (item.id) {
+            var groupName = item.groupName || conf.items_v4.defaultGroupName;
+            var itemIdsFromGroup = itemIdsByGroupName[groupName] = itemIdsByGroupName[groupName] || [];
+            itemIdsFromGroup.push(item.id);
+            itemIds.push(item.id);
+          }
+          if (conf.track.url['itemUrl'] && item.data && ('url' in item.data)) {
+            ADventori.assert.isValidUrl(item.data.url, 'itemUrl');
+          }
+        }
+      });
+      var deduplicatedItemIds = ADventori.collect.arrays.deduplicateBy(itemIds, function(itemId) {
+        return itemId;
+      });
+      ADventori.assert._checkArgs(itemIds.length === deduplicatedItemIds.length, 'DUPLICATE_ITEM_ID', 'AdErrorConfItems');
+      _utils.each(itemIdsByGroupName, function(groupName, itemIdsFromGroup) {
+        itemIdsByGroupName[groupName] = _utils.map(itemIdsFromGroup, function(itemId) {
+          return _utils._encode(itemId + '');
+        }).join('|');
+      });
+      return {
+        "_stat_items": _utils.toQueryString(itemIdsByGroupName)
+      };
+    }
+  }
+  return null;
+},
+
+
+processStatData: function(conf) {
+  var statData = {};
+  var statItems = this.attempt('processStatItems', arguments);
+  _extend(statData, conf.statData);
+  _extend(statData, {
+    "_stat_scn": conf.processed['scenario']
+  });
+  if (conf.processed['displayDefault'] && conf.items) {
+    _extend(statData, conf.items.getStatData(conf));
+  }
+  if (statItems) {
+    _extend(statData, statItems);
+  }
+  if (ADventori.conf.mraid) {
+    _extend(statData, ADventori.conf.mraid.statData);
+  }
+  conf.processed['statData'] = statData;
+  conf.processed['statUrl'] = _utils.addQueryParams(conf.processed['displayPassback'] ? 'passback' : conf.processed['creaUrl'], statData);
+},
+
+
+processCreaData: function(conf) {
+  var confCreaData = {
+    "version": ADventori.version,
+    "env": {
+      "name": ADventori.data.params._env || 'prod',
+      "testInitData": ADventori.data.params._testInitData,
+      "preview": ADventori.data.params.preview
+    },
+    "conf": {
+      "id": this.id,
+      "clickTag": conf.processed['clickTagStacked'],
+      "request": ADventori.data.request,
+      "placementId": ADventori.data.placement['placementId'],
+      "track": {
+        "urlError": ADventori.track.toUrlError('AdErrorEnablerMessage'),
+        "enabled": ADventori.data.placement.track
+      }
+    }
+  };
+  var creaData = {};
+  _extend(creaData, conf.creaData);
+  if (conf.processed['displayDefault'] && conf.items) {
+    _extend(creaData, conf.items.getCreaData(conf));
+  }
+  conf.processed['creaData'] = creaData;
+  confCreaData['data'] = creaData;
+  if (ADventori.conf.mraid) {
+    confCreaData['mraidData'] = ADventori.conf.mraid.mraidData;
+  }
+  conf.processed['confCreaData'] = confCreaData;
+},
+
+
+processDom: function(conf) {
+  conf.processed.dom['adId'] = conf.processed.dom['adId'] || (this.id && ('ADventori_ad_' + this.id));
+  conf.processed.dom['container'] = conf.processed.dom['container'] || ADventori.conf.processed.dom['container'];
+  conf.processed.dom['document'] = conf.processed.dom['document'] || (conf.processed.dom['container'] ? ADventori.dom.getDocument(conf.processed.dom['container']) : null);
+  conf.processed.dom['window'] = conf.processed.dom['window'] || (conf.processed.dom['document'] ? ADventori.dom.getWindow(conf.processed.dom['document']) : null);
+  conf.processed.dom['adStyle'] = _extend({
+    width: conf['size'].width + 'px',
+    height: conf['size'].height + 'px',
+    display: 'block',
+    margin: 'auto',
+    padding: 0,
+    border: 0
+  }, conf.dom['adStyle']);
+},
+
+
+setupMessage: function(conf) {
+  var win = conf.processed.dom['window'];
+  if (!win) {
+    return;
+  }
+  ADventori.dom.addEventListener(win, 'message', ADventori.ext.receiveMessage);
+},
+
+
+fireDisplayTags: function(conf) {
+  _utils.map(conf.processed['displayTag'], ADventori.dom.firePixel);
+  _utils.map(conf.processed['displayTagScript'], ADventori.dom.getScript);
+  _utils.map(conf.processed['displayTagScriptWrite'], ADventori.dom.writeScript);
+},
+
+
+fireClickTags: function(conf) {
+  _utils.map(conf.processed['clickTagPxl'], ADventori.dom.firePixel);
+},
+
+
+trackShow: function(conf) {
+  if (conf.track.event['AdShow']) {
+    ADventori.dom.firePixel(ADventori.track.toUrlShow(conf.track.event['AdShow'], {
+      "urlClick": conf.processed['statUrl']
+    }));
+  }
+},
+
+
+trackClick: function(conf, params) {
+  params = params || {};
+  if (conf.track.event['AdClickBis']) {
+    ADventori.dom.firePixel(ADventori.track.toUrlClickPixel(conf.track.event['AdClickBis'], {
+      "urlClick": conf.processed['statUrl'],
+      "retailer_1": params['item'] && params['item'].id,
+      "retailer_3": params['open']
+    }));
+  }
+  if (conf.track.event['AdClickInfo']) {
+    ADventori.dom.firePixel(ADventori.track.toUrlClickPixel(conf.track.event['AdClickInfo'], {
+      "retailer_1": conf.track._info['mouseEvents'].slice(0, 51).join(''),
+      "retailer_2": conf.track._info['creaInitData'],
+      "retailer_3": params['open']
+    }));
+  }
+},
+
+
+trackCreaInitData: function(conf) {
+  conf.track._info['creaInitData']++;
+},
+
+
+trackCreaReady: function(conf) {
+  conf.track._info['creaReady']++;
+},
+
+
+trackCreaLoad: function(conf) {
+  conf.track._info['creaLoad']++;
+},
+
+
+triggerVisibleStateEvent: function(conf) {
+  if (conf.viewability) {
+    if (!conf.viewability._disposed) {
+      var currentState = conf.viewability._currentState;
+      if (currentState && currentState.visibleState) {
+        this.triggerCreaEvent(currentState.visibleState);
+      }
+    } else {
+      this.triggerCreaEvent('visible');
+    }
+  }
+},
+
+
+startViewability: function(conf) {
+  if (conf.viewability) {
+    ADventori.track.setTimeout(function() {
+      conf.viewability.start();
+    }, conf.viewability.pollInterval, 'startViewability', 'AdErrorView');
+  }
+}
+
+});
+
+_extend(ADventori.fn, {
+
+
+displayAd: function(conf) {
+  var displayFn = ADventori._conf.displayFn[conf.processed['displayFormat']];
+  if (displayFn) {
+    this.attempt(displayFn, arguments);
+  }
+},
+
+
+displayPassback: function(conf) {
+  if (conf.processed['displayBackup']) {
+    this.attempt('displayImage', arguments);
+  }
+  ADventori.assert.isValidUrlSecure(conf.processed['passbackUrl'], 'passbackUrl');
+  ADventori.dom.writeScript(document, conf.processed['passbackUrl']);
+},
+
+
+displayImage: function(conf) {
+  var debugStackCopy = debug.stack.slice();
+  var self = this,
+    doc = conf.processed.dom['document'],
+    container = conf.processed.dom['container'];
+
+  ADventori.assert.isValidUrlSecure(conf.processed['creaUrl'], 'creaUrl');
+  if (!ADventori.assert._checkArgs(doc && container, ['NO_CONTAINER', doc && 'doc', container && 'container'].join(','), 'AdErrorDom')) {
+    return;
+  }
+  var elLink = ADventori.dom.createElement(doc, 'a', _extend({
+    href: conf.processed['clickTagStacked'],
+    target: '_blank',
+    rel: 'noopener',
+    style: _extend({}, conf.processed.dom['adStyle'], conf.dom['imgLinkStyle']),
+    on: {
+      mouseenter: function(e) {
+        conf.track._info['mouseEvents'].push(1);
+      },
+      mouseleave: function(e) {
+        conf.track._info['mouseEvents'].push(0);
+      },
+      click: function(e) {
+        var mraidOpen = false;
+        try {
+          if (typeof mraid != 'undefined' && mraid.open) {
+            mraid.open(this.href);
+            mraidOpen = true;
+          }
+        } catch(err) {}
+        self.exec('click', [{
+          "open": (
+            mraidOpen ? 'mraid' :
+            'a'
+          )
+        }]);
+        if (mraidOpen) {
+          if (e.preventDefault) {
+            e.preventDefault();
+          } else {
+            e.returnValue = false;
+          }
+        }
+      }
+    }
+  }, conf.dom['imgLinkAttrs']));
+  var elImg = conf.processed.dom['adElement'] = ADventori.dom.createElement(doc, 'img', _extend({
+    id: conf.processed.dom['adId'],
+    src: conf.processed['creaUrl'],
+    style: _extend({}, conf.processed.dom['adStyle'], conf.dom['imgStyle']),
+    on: {
+      error: function(e) {
+        debug.queue.push(['errorImage', arguments, debugStackCopy]);
+      }
+    }
+  }, conf.dom['adAttrs'], conf.dom['imgAttrs']));
+  elLink.appendChild(elImg);
+  container.appendChild(elLink);
+},
+
+
+displayHtml: function(conf) {
+  var doc = conf.processed.dom['document'],
+    container = conf.processed.dom['container'];
+
+  ADventori.assert.isValidUrlSecure(conf.processed['creaUrl'], 'creaUrl');
+  if (!ADventori.assert._checkArgs(doc && container, ['NO_CONTAINER', doc && 'doc', container && 'container'].join(','), 'AdErrorDom')) {
+    return;
+  }
+  var elIframe = conf.processed.dom['adElement'] = ADventori.dom.createElement(doc, 'iframe', _extend({
+    id: conf.processed.dom['adId'],
+    name: _JSON.stringify(conf.processed['confCreaData']),
+    src: conf.processed['creaUrl'],
+    width: conf['size'].width,
+    height: conf['size'].height,
+    frameborder: 0,
+    marginwidth: 0,
+    marginheight: 0,
+    scrolling: 'no',
+    style: _extend({}, conf.processed.dom['adStyle'], conf.dom['frameStyle']),
+    on: {
+      mouseenter: function(e) {
+        conf.track._info['mouseEvents'].push(1);
+      },
+      mouseleave: function(e) {
+        conf.track._info['mouseEvents'].push(0);
+      }
+    }
+  }, conf.dom['adAttrs'], conf.dom['frameAttrs']));
+  container.appendChild(elIframe);
+},
+
+
+displayCustom: function(conf) {}
+
+});
+
+
+_extend(ADventori.fn, {
+  onStart: function(){},
+  onEnd: function(){},
+  onAdStart: function(){},
+  onAdEnd: function(){},
+  onConfProcessed: function(){},
+  onDisplay: function(){},
+  onClick: function(){},
+  onCreaInitData: function(){},
+  onCreaReady: function(){},
+  onCreaLoad: function(){}
+});
+
+
+_extend(ADventori, {
+
+q: function() {
+  if (!ADventori.assert._checkArgs(ADventori.data.placement.siteTracker.useTag, {name: 'ADventori.q', message: 'NOT_ACTIVATED'}, 'AdErrorUnsupported')) {
+    return;
+  }
+  var o = ADventori.q = function(){(o.q=o.q||[]).push(arguments)};
+  o.l = +(new _Date());
+  o.p = ADventori.data.request.protocol;
+  o.h = ADventori.data.request.domainName;
+  o.t = 'image';
+  o.q = [];
+  o.q.push(['create', ADventori.data.brand.id]);
+  o.q.push(arguments);
+  ADventori.dom.getScript(document, ADventori.data.request.protocol + ADventori.data.request.domainName + ADventori.data.placement.siteTracker.tagUrl);
+}
+
+});
+
+
+_extend(ADventori, {
+
+DataAPI: {
+
+utils: {
+
+_clone: function(obj) {
+  return obj && _extend(true, {}, {_clone: obj})._clone;
+},
+
+mapData: function(dataObjs, fn) {
+  if (!ADventori.assert._checkArgs(dataObjs && _utils._isArray(dataObjs), {name: 'DataAPI.utils.mapData', message: 'NO_ARRAY_INPUT'}) ||
+      !ADventori.assert._checkArgs(typeof fn == 'function', {name: 'DataAPI.utils.mapData', message: 'NO_FUNCTION_INPUT'})) {
+    return [];
+  }
+  return _utils.map(dataObjs, function(dataObj) {
+    var data = dataObj && dataObj.data;
+    ADventori.assert._checkArgs(data != null, {name: 'DataAPI.utils.mapData', message: 'NO_DATA_OBJECT'});
+    if (data != null) {
+      data = ADventori.track.attempt(_utils._bind(fn, null, [data, dataObj]), 'DataAPI.utils.mapData.fn', 'AdErrorConf');
+      if (data != null) {
+        dataObj = ADventori.DataAPI.utils._clone(dataObj);
+        dataObj.data = data;
+        return dataObj;
+      }
+    }
+  });
+}
+
+},
+
+target: {
+
+_getTargets: function(namespace) {
+  var resultNode = ADventori.DataAPI[namespace]._resultNode;
+  var targetNode = ADventori.DataAPI[namespace]._targetNode;
+  var targets = resultNode && resultNode.target && resultNode.target[targetNode];
+  ADventori.assert._checkArgs(targets, {name: 'DataAPI.target._getTargets', message: 'NO_TARGET_NODE'});
+  return targets || [];
+},
+
+_buildTargetsByGroupName: function(namespace) {
+  var targetsByGroupName = {};
+  _utils.each(ADventori.DataAPI.target._getTargets(namespace), function(i, target) {
+    var groupName = target && target.entry && target.entry.groupName;
+    ADventori.assert._checkArgs(groupName, {name: 'DataAPI.target._buildTargetsByGroupName', message: 'NO_TARGET_GROUPNAME'});
+    if (groupName) {
+      var targets = targetsByGroupName[groupName] = targetsByGroupName[groupName] || [];
+      targets.push(target);
+    }
+  });
+  return targetsByGroupName;
+},
+
+_getTargetsByGroupName: function(namespace) {
+  var cacheName = '_targetsByGroupName';
+  var caches = ADventori.DataAPI[namespace]._caches;
+  var targetNode = ADventori.DataAPI[namespace]._targetNode;
+  var cacheByTargetNode = caches[cacheName] = caches[cacheName] || {};
+  var targetsByGroupName = cacheByTargetNode[targetNode] = cacheByTargetNode[targetNode] || ADventori.DataAPI.target._buildTargetsByGroupName(namespace);
+  return targetsByGroupName;
+}
+
+},
+
+items: {
+
+_resultNode: ADventori.data.results.items,
+
+_targetNode: '_default',
+
+_caches: {},
+
+sourceGroupNamePrefix: 'src_',
+
+_getItemsById: function() {
+  var resultNode = ADventori.DataAPI.items._resultNode;
+  var itemsById = resultNode && resultNode.items;
+  ADventori.assert._checkArgs(itemsById, {name: 'DataAPI.items._getItemsById', message: 'NO_ITEMS_NODE'});
+  return itemsById || {};
+},
+
+_getItemOfTarget: function(target, getSource) {
+  var targetItemId = target && target.item && target.item.id;
+  var sourceItemId = target && target.item && target.item.sourceId;
+  var itemId = getSource ? sourceItemId : targetItemId;
+  var targetGroupName = target && target.entry && target.entry.groupName;
+  var groupNamePrefix = getSource ? ADventori.DataAPI.items.sourceGroupNamePrefix : '';
+  var groupName = targetGroupName && (groupNamePrefix + targetGroupName);
+  ADventori.assert._checkArgs(targetItemId, {name: 'DataAPI.items._getItemOfTarget', message: 'NO_TARGET_ITEM_ID'});
+  ADventori.assert._checkArgs(targetGroupName, {name: 'DataAPI.items._getItemOfTarget', message: 'NO_TARGET_GROUPNAME'});
+  if (itemId) {
+    var item = ADventori.DataAPI.items.getItemFromId(itemId);
+    ADventori.assert._checkArgs(item, {name: 'DataAPI.items._getItemOfTarget', message: 'NO_TARGET_ITEM'});
+    if (item && groupName) {
+      item.groupName = groupName;
+    }
+    return item;
+  }
+  return null;
+},
+
+_getItemsOfTargets: function(targets, getSource) {
+  if (!ADventori.assert._checkArgs(targets && _utils._isArray(targets), {name: 'DataAPI.items._getItemsOfTargets', message: 'NO_ARRAY_INPUT'})) {
+    return [];
+  }
+  var items = _utils.map(targets, function(target) {
+    return ADventori.DataAPI.items._getItemOfTarget(target, getSource);
+  });
+  return ADventori.DataAPI.items.deduplicateItems(items);
+},
+
+_buildItemsByGroupName: function(getSource) {
+  var itemsByGroupName = {};
+  _utils.each(ADventori.DataAPI.target._getTargetsByGroupName('items'), function(groupName, targets) {
+    itemsByGroupName[groupName] = ADventori.DataAPI.items._getItemsOfTargets(targets, getSource);
+  });
+  return itemsByGroupName;
+},
+
+_getItemsByGroupName: function(getSource) {
+  var cacheName = getSource ? '_sourceItemsByGroupName' : '_targetItemsByGroupName';
+  var caches = ADventori.DataAPI.items._caches;
+  var targetNode = ADventori.DataAPI.items._targetNode;
+  var cacheByTargetNode = caches[cacheName] = caches[cacheName] || {};
+  var itemsByGroupName = cacheByTargetNode[targetNode] = cacheByTargetNode[targetNode] || ADventori.DataAPI.items._buildItemsByGroupName(getSource);
+  return itemsByGroupName;
+},
+
+_getItemsFromGroup: function(groupName, getSource) {
+  ADventori.assert._checkArgs(typeof groupName == 'string' && groupName, {name: 'DataAPI.items._getItemsFromGroup', message: 'NO_STRING_INPUT'});
+  var itemsFromGroup = ADventori.DataAPI.items._getItemsByGroupName(getSource)[groupName] || [];
+  return ADventori.DataAPI.utils._clone(itemsFromGroup);
+},
+
+_buildRelatedItemsByItemId: function(getSource) {
+  var relatedItemsByItemId = {};
+  var relatedItemIdsByItemId = {};
+  _utils.each(ADventori.DataAPI.target._getTargets('items'), function(i, target) {
+    var itemKey = ADventori.DataAPI.items._getItemOfTarget(target, !getSource);
+    var itemValue = ADventori.DataAPI.items._getItemOfTarget(target, getSource);
+    if (itemKey && itemValue) {
+      var relatedItemIds = relatedItemIdsByItemId[itemKey.id] = relatedItemIdsByItemId[itemKey.id] || {};
+      var relatedItems = relatedItemsByItemId[itemKey.id] = relatedItemsByItemId[itemKey.id] || [];
+      if (!relatedItemIds[itemValue.id]) {
+        relatedItemIds[itemValue.id] = true;
+        relatedItems.push(itemValue);
+      }
+    }
+  });
+  return relatedItemsByItemId;
+},
+
+_getRelatedItemsByItemId: function(getSource) {
+  var cacheName = getSource ? '_sourceItemsByItemId' : '_relatedItemsByItemId';
+  var caches = ADventori.DataAPI.items._caches;
+  var targetNode = ADventori.DataAPI.items._targetNode;
+  var cacheByTargetNode = caches[cacheName] = caches[cacheName] || {};
+  var relatedItemsByItemId = cacheByTargetNode[targetNode] = cacheByTargetNode[targetNode] || ADventori.DataAPI.items._buildRelatedItemsByItemId(getSource);
+  return relatedItemsByItemId;
+},
+
+_getRelatedItemsOfItem: function(item, getSource) {
+  if (!ADventori.assert._checkArgs(item, {name: 'DataAPI.items._getRelatedItemsOfItem', message: 'NO_ITEM_INPUT'})) {
+    return [];
+  }
+  ADventori.assert._checkArgs(typeof item.id == 'string' && item.id, {name: 'DataAPI.items._getRelatedItemsOfItem', message: 'NO_ITEM_ID'});
+  var relatedItems = ADventori.DataAPI.items._getRelatedItemsByItemId(getSource)[item.id] || [];
+  return ADventori.DataAPI.utils._clone(relatedItems);
+},
+
+_getRelatedItemsOfItems: function(items, getSource) {
+  if (!ADventori.assert._checkArgs(items && _utils._isArray(items), {name: 'DataAPI.items._getRelatedItemsOfItems', message: 'NO_ARRAY_INPUT'})) {
+    return [];
+  }
+  var relatedItems = _utils.map(items, function(item) {
+    return ADventori.DataAPI.items._getRelatedItemsOfItem(item, getSource);
+  });
+  return ADventori.DataAPI.items.deduplicateItems(relatedItems);
+},
+
+deduplicateItems: function(items) {
+  if (!ADventori.assert._checkArgs(items && _utils._isArray(items), {name: 'DataAPI.items.deduplicateItems', message: 'NO_ARRAY_INPUT'})) {
+    return [];
+  }
+  return ADventori.collect.arrays.deduplicateBy(items, function(item) {
+    ADventori.assert._checkArgs(item && item.id, {name: 'DataAPI.items.deduplicateItems', message: 'NO_ITEM_ID'});
+    if (item && item.id) {
+      return item.id;
+    }
+  });
+},
+
+getItemFromId: function(id) {
+  ADventori.assert._checkArgs(typeof id == 'string' && id, {name: 'DataAPI.items.getItemFromId', message: 'NO_STRING_INPUT'});
+  var item = ADventori.DataAPI.items._getItemsById()['i_' + id] || null;
+  return ADventori.DataAPI.utils._clone(item);
+},
+
+getRelatedItemsOfItem: function(item) {
+  return ADventori.DataAPI.items._getRelatedItemsOfItem(item, false);
+},
+
+getRelatedItemsOfItems: function(items) {
+  return ADventori.DataAPI.items._getRelatedItemsOfItems(items, false);
+},
+
+getSourceItemsOfItem: function(item) {
+  return ADventori.DataAPI.items._getRelatedItemsOfItem(item, true);
+},
+
+getSourceItemsOfItems: function(items) {
+  return ADventori.DataAPI.items._getRelatedItemsOfItems(items, true);
+},
+
+getAllTargets: function() {
+  var targets = ADventori.DataAPI.target._getTargets('items');
+  return ADventori.DataAPI.utils._clone(targets);
+},
+
+getTargetsFromGroup: function(groupName) {
+  ADventori.assert._checkArgs(typeof groupName == 'string' && groupName, {name: 'DataAPI.items.getTargetsFromGroup', message: 'NO_STRING_INPUT'});
+  var targetsFromGroup = ADventori.DataAPI.target._getTargetsByGroupName('items')[groupName] || [];
+  return ADventori.DataAPI.utils._clone(targetsFromGroup);
+},
+
+getTargetItemsOfTargets: function(targets) {
+  return ADventori.DataAPI.items._getItemsOfTargets(targets, false);
+},
+
+getAllTargetItems: function() {
+  return ADventori.DataAPI.items._getItemsOfTargets(ADventori.DataAPI.target._getTargets('items'), false);
+},
+
+getTargetItemsFromGroup: function(groupName) {
+  return ADventori.DataAPI.items._getItemsFromGroup(groupName, false);
+},
+
+getSourceItemsOfTargets: function(targets) {
+  return ADventori.DataAPI.items._getItemsOfTargets(targets, true);
+},
+
+getAllSourceItems: function() {
+  return ADventori.DataAPI.items._getItemsOfTargets(ADventori.DataAPI.target._getTargets('items'), true);
+},
+
+getSourceItemsFromGroup: function(groupName) {
+  return ADventori.DataAPI.items._getItemsFromGroup(groupName, true);
+}
+
+},
+
+userData: {
+
+_resultNode: ADventori.data.results.userData,
+
+_targetNode: '_default',
+
+_caches: {},
+
+getAllTargets: function() {
+  var targets = ADventori.DataAPI.target._getTargets('userData');
+  return ADventori.DataAPI.utils._clone(targets);
+},
+
+getTargetsFromGroup: function(groupName) {
+  ADventori.assert._checkArgs(typeof groupName == 'string' && groupName, {name: 'DataAPI.userData.getTargetsFromGroup', message: 'NO_STRING_INPUT'});
+  var targetsFromGroup = ADventori.DataAPI.target._getTargetsByGroupName('userData')[groupName] || [];
+  return ADventori.DataAPI.utils._clone(targetsFromGroup);
+}
+
+}
+
+}
+
+});
+
+
+ADventori.Items = function(_this) {
+  _extend(this, {
+    "_items": [],
+    "_scenarios": {},
+    "_enabled": false,
+    "creaDataKey": "items",
+    "displayBackupIfEmpty": true,
+    "options": {}
+  });
+  _extend(true, this, _this.conf.items);
+  this._this = _this;
+};
+
+_extend(ADventori.Items.prototype, {
+
+get: function(group, id) {
+  if (!ADventori.assert._checkArgs(group != null && id != null, {name: 'items.get', message: 'NO_INPUT'})) {
+    return null;
+  }
+  return group['i_' + id];
+},
+
+getRelated: function(itemOrItems) {
+  if (!ADventori.assert._checkArgs(ADventori.data.results.items.related != null, {name: 'items.getRelated', message: 'NO_RELATED_ITEMS'}) ||
+      !ADventori.assert._checkArgs(itemOrItems != null, {name: 'items.getRelated', message: 'NO_INPUT'})) {
+    return {};
+  }
+  var self = this;
+  var related = {};
+  var items = itemOrItems.id != null ? [itemOrItems] : itemOrItems;
+  _utils.each(items, function(i, item) {
+    if (item != null && item.id != null) {
+      _extend(related, self.get(ADventori.data.results.items.related, item.id));
+    }
+  });
+  return related;
+},
+
+size: function() {
+  return this._items.length;
+},
+
+toArray: function() {
+  return this._items.slice();
+},
+
+clear: function() {
+  this._items = [];
+  this._scenarios = {};
+},
+
+addAll: function() {
+  return ADventori.track.attempt(_utils._bind(this._addAll, this, arguments), 'items.addAll');
+},
+
+_addAll: function(items, options) {
+  var _this = this._this;
+  var conf = _this.conf;
+  var itemsMap = {};
+  _utils.each(this._items, function(i, item) {
+    if (item != null && item.id != null) {
+      itemsMap[item.id] = item;
+    }
+  });
+  options = _extend({}, this.options, options);
+  items = _utils.map(items, function(item) {
+    if (
+      item != null &&
+      item.id != null &&
+      !item.deleted && (
+        !itemsMap[item.id] &&
+        (itemsMap[item.id] = item)
+      ) && (
+        !options.map ||
+        (item = ADventori.track.attempt(_utils._bind(options.map, _this, arguments), 'items.options.map', 'AdErrorConf'))
+      )
+    ) {
+      return item;
+    }
+  });
+  if (options.sort) {
+    ADventori.track.attempt(function() {
+      items = items.slice().sort(options.sort);
+    }, 'items.options.sort', 'AdErrorConf');
+  } else if (options.shuffle) {
+    items = ADventori.rand.shuffle(items);
+  }
+  var nbItemsToAdd = Math.max(0, Math.min(items.length, options.max != null ? options.max : items.length, options.maxTotal != null ? (options.maxTotal - this._items.length) : items.length));
+  if (nbItemsToAdd > 0) {
+    items.length = nbItemsToAdd;
+    _utils.each(items, function(i, item) {
+      if (item && item.data && ('url' in item.data)) {
+        item.data.url = item.data.url && ADventori.macros.replace(item.data.url, conf.macros);
+        if (conf.track.url['itemUrl']) {
+          ADventori.assert.isValidUrl(item.data.url, 'itemUrl');
+        }
+      }
+    });
+    _push.apply(this._items, items);
+    this._scenarios[options.scenario] = (this._scenarios[options.scenario] || 0) + nbItemsToAdd;
+  }
+  ADventori.assert._checkArgs(options.scenario && typeof options.scenario == 'string', 'NO_ITEM_SCENARIO', 'AdErrorScenario');
+  this._enabled = true;
+  return nbItemsToAdd;
+},
+
+getScenario: function(conf) {
+  if (this._enabled) {
+    return (
+      _utils.toQueryString(this._scenarios) ||
+      conf.defaultScenario['items']
+    );
+  }
+},
+
+getStatData: function(conf) {
+  if (this._enabled) {
+    return {
+      "_stat_ids": _utils.map(this._items, function(item) {
+        return _utils._encode(item != null && item.id != null ? (item.id + '') : '');
+      }).join('|')
+    };
+  }
+},
+
+getCreaData: function(conf) {
+  if (this._enabled) {
+    var items = {};
+    items[this.creaDataKey] = this._items;
+    return items;
+  }
+}
+
+});
+
+ADventori.conf.require.validators['BACKUP_FOR_NO_ITEM'] = function(conf) {
+  return !(conf.items && conf.items._enabled && conf.items.displayBackupIfEmpty && conf.items.size() == 0);
+};
+ADventori.conf.defaultScenario['items'] = 'ITEMS_DEFAULT';
+
+ADventori.conf.items = new ADventori.Items(ADventori);
+
+})();
+
+ADventori.track.attempt(function() {
+
+debug.stack.push('conf_campaign');
+/* Sitetracker v4 API Alpha - START */
+var API_v4 = {};
+(function() {
+var userData = ADventori.data.results.userData;
+var items = ADventori.data.results.items;
+
+API_v4.getItems = function(groupName) {
+  var itemsMap = {};
+  return ADventori.utils.map(items.target._default, function(target) {
+    if ((!groupName || target.entry.groupName == groupName) && !itemsMap[target.item.id]) {
+      return (itemsMap[target.item.id] = items.items['i_' + target.item.id]);
+    }
+  });
+};
+  
+API_v4.getUserData = function(groupName) {
+  return ADventori.utils.map(userData.target._default, function(target) {
+    if (!groupName || target.entry.groupName == groupName) {
+      return target;
+    }
+  });
+};
+})();
+/* Sitetracker v4 API Alpha - END */
+
+//NOM DES VARIABLES//
+var params = ADventori.data.params;
+var userData = ADventori.data.results.userData;
+var items = ADventori.data.results.items;
+var places = ADventori.data.results.places;
+var placementInfos = ADventori.data.placement.placementId.split('_');
+var country = placementInfos[2];
+var strategy = placementInfos[3];
+var size = placementInfos[4];
+//var conceptCrea = params.conceptCrea || ADventori.pools.getElement(['concept1', 'concept2'], null, 'conceptCrea');
+var dataCTA = ADventori.data.campaignData.dataCTA;
+var dataDimensionsFolder = ADventori.data.campaignData.dimensions_folder;
+
+/* Free delivery hack for DE*/
+//var DE_free_delivery_ids = ADventori.data.campaignData.DE_free_delivery_ids ? ADventori.data.campaignData.DE_free_delivery_ids : {};
+//var DE_free_delivery_cta = "Kostenlose Lieferung";
+/* End of Free delivery hack for DE*/
+//*discount information
+
+
+var cta = dataCTA[country];
+
+
+var utms = '?utm_source=display&utm_medium=ttd&utm_campaign=retargeting';
+var hasFoodoraApp = (API_v4.getUserData().length > 0);
+
+//GESTION DE L'A/B TEST OPEN ALL //
+var poolOpen = params.poolOpen;
+if(!poolOpen) {
+if (country == 'PK' || country == 'HK' ||  country == 'MY' ||  country == 'SG' ||  country == 'TH' ||  country == 'TW') {
+      poolOpen = 'all';
+  } else {
+      poolOpen = ADventori.pools.getElement(['all', 'open'], null, 'poolOpen');
+  }
+}
+
+
+//MACROS POUR TRACKING ATLAS//
+ADventori.conf.macros = {
+'a_d'     : params.a_d      || 'not_received', //advertiserID - %%TTD_ADVERTISERID%%
+'s_v'     : params.s_v      || 'not_received', //supplyvendorID - %%TTD_SUPPLYVENDOR%%
+'i_id'    : params.i_id     || 'not_received', //impressionID - %%TTD_IMPRESSIONID%%
+'td_id'   : params.td_id    || 'not_received', //tdid - %%TTD_TDID%%
+'p_id'    : params.p_id     || 'not_received', //partnerID - %%TTD_PARTNERID%%
+'cat'     : params.cat      || 'not_received', //cat - %%TTD_CATEGORY%%
+'c_a'     : params.c_a      || 'not_received', //- %%TTD_CAMPAIGNID%%
+'p_a'     : params.p_a      || 'not_received', //- %%TTD_ADGROUPID%%
+'as_a'    : params.as_a     || 'not_received', //- %%TTD_SITE%%
+'idfa'    : params.idfa     || 'not_received', //- %%TTD_DEVICEID%%
+'idfa_lat': params.idfa_lat || 'not_received', //- %%IDFA_LAT%%
+'aaid'    : params.aaid     || 'not_received', //- %%TTD_DEVICEID%%
+'aaid_lat': params.aaid_lat || 'not_received', //- %%AAID_LAT%%
+'aa'      : params.aa       || 'not_received' //- %%TTD_CREATIVEID%%
+//conceptCrea: conceptCrea
+};
+
+
+// Gestion du displayTag
+ADventori.conf.displayTag = ADventori.macros.replace(ADventori.conf.displayTag, {
+  'a_a': [country/*, conceptCrea*/].join('_')
+});
+
+// Gestion du clickTag dans les urls d'items
+var clickTag = ADventori.conf.clickTag;
+ADventori.conf.clickTag = null;
+ADventori.conf.track.url.clickTag = false;
+
+//FONCTIONS DE FORMATAGES DU TEXTE//
+function capitalize(str) {
+  return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
+}
+
+function capitalizeWords(string) {
+  return string.replace(/(\b)([a-z])/g, function( all, sep, letter ) {
+    return sep + letter.toUpperCase();
+  });
+}
+
+function formatPrice(x) {
+  var parts = x.toString().split(".");
+  parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+  return parts.join(",");
+}
+
+//GESTION DE LA DATE ET HEURE POUR SCENARISATION//
+var now = ADventori.date.now();
+
+var days = {
+  'Sunday': 0,
+  'Monday': 1,
+  'Tuesday': 2,
+  'Wednesday': 3,
+  'Thursday': 4,
+  'Friday': 5,
+  'Saturday': 6
+};
+
+function parseOpenDays(item) {
+  var openByDay = {};
+  if (item.data.opening_hours) {
+    var openDays = item.data.opening_hours.split(', ');
+    for (var i = 0; i < openDays.length; i++) {
+      var openDayTimes = openDays[i].split(': ');
+      var day = days[openDayTimes[0]];
+      var times = openDayTimes[1].split('-');
+      var startDate = ADventori.date.parse('2017-01-01T' + times[0]);
+      var endDate = ADventori.date.parse('2017-01-01T' + times[1]);
+      startDate.setDate(now.getDate());
+      startDate.setMonth(now.getMonth());
+      startDate.setFullYear(now.getFullYear());
+      endDate.setDate(now.getDate());
+      endDate.setMonth(now.getMonth());
+      endDate.setFullYear(now.getFullYear());
+      if (+endDate < +startDate) {
+        endDate.setDate(now.getDate() + 1);
+      }
+      openByDay[day] = openByDay[day] || [];
+      openByDay[day].push({
+        startDate: startDate,
+        endDate: endDate
+      });
+    }
+  }
+  return openByDay;
+}
+
+function isOpen(item) {
+  var openByDay = parseOpenDays(item);
+  var openToday = openByDay[now.getDay()];
+  if (openToday) {
+    for (var i = 0; i < openToday.length; i++) {
+      if (+now >= +openToday[i].startDate && +now <= +openToday[i].endDate) {
+        return true;
+      }
+    }
+  }
+  return false;
+}
+
+
+
+//GESTION DES ITEMS// 
+function mapAllItem(item) {
+  var clickTagItem = ADventori.macros.replace(clickTag, {
+    //'a_a': [country, conceptCrea, item.data.cuisines_global, item.data.id].join('_')
+    'a_a': [country/*, conceptCrea*/].join('_')
+  });
+  
+  
+  /*******************TESTER LE TRACKING********************/
+  var itemDeeplink = item.data.deeplink_restaurant;
+  if(itemDeeplink) {
+    if (!navigator.userAgent.match(/iPhone|iPad|iPod/i)) {
+      itemDeeplink = itemDeeplink.substring(0, itemDeeplink.indexOf("c?"));
+    }
+    itemDeeplink = 'https://app.adjust.com/6oot6u_m5sgzn?campaign='+params.c_a+'&adgroup='+params.p_a+'&creative='+params.aa+'&idfa='+params.aaid+'&gps_adid='+params.aaid+'&deep_link='+encodeURIComponent(itemDeeplink);
+  }
+
+  if(item.data.image_link){
+    return {
+      //id: [item.id,item.data.cuisines_global].join('|'),
+      id: item.id,
+      data: {
+        name: item.data.name /*+ (item.data.emoji && item.data.emoji.indexOf(' ') >= 0 ? ' ' + item.data.emoji.split(' ')[1] : '')*/,
+        img: item.data.image_link ? (item.data.image_link.replace('/original/', dataDimensionsFolder[size] ? '/' + dataDimensionsFolder[size].folder + '/' : '/h300/') + '.jpg') : null,
+        url: clickTagItem + (hasFoodoraApp ? itemDeeplink : ((item.data.landing_page_menu || cta.url) + utms)),
+        cta: cta.cta,
+        discount_title: item.data.discount_title
+        
+  /* Free delivery hack for DE*/
+        //cta: item.id.indexOf('DE_') == 0 ? (DE_free_delivery_ids[item.id.split('_')[1]] ? DE_free_delivery_cta : cta.cta) : cta.cta
+      }
+    };
+  } else {
+    return null;
+  }
+}
+
+function mapOpenItem(item) {
+  if (isOpen(item)) {
+    return mapAllItem(item);
+  }
+}
+
+
+// PRIORISATION DES SITES TRACKERS POUR SELECTION DES ITEMS - 3 FRAMES//
+// MOBILE
+var scn = "";
+var sep = "";
+var cpt = 0;
+
+ADventori.conf.items.options = {
+    maxTotal: 3,
+    shuffle: true
+};
+  
+if (poolOpen == 'open') {
+  ADventori.conf.items.options.map = mapOpenItem;
+  
+  cpt = ADventori.conf.items.addAll(API_v4.getItems('basket'), {
+    scenario: 'open_visited_basket'
+  });
+
+  cpt = ADventori.conf.items.addAll(API_v4.getItems('rdp'), {
+    scenario: 'open_visited_rdp'
+  });
+
+  cpt = ADventori.conf.items.addAll(API_v4.getItems('rlp'), {
+    scenario: 'open_visited_rlp'
+  });
+
+  cpt = ADventori.conf.items.addAll(API_v4.getItems('basket_related'), {
+    scenario: 'open_visited_basket_related'
+  });
+
+  cpt = ADventori.conf.items.addAll(API_v4.getItems('rdp_related'), {
+    scenario: 'open_visited_rdp_related'
+  });
+
+  cpt = ADventori.conf.items.addAll(API_v4.getItems('rlp_related'), {
+    scenario: 'open_visited_rlp_related'
+  });
+
+  cpt = ADventori.conf.items.addAll(API_v4.getItems('city'), {
+    scenario: 'open_place'
+  });
+
+  cpt = ADventori.conf.items.addAll(API_v4.getItems('country'), {
+    scenario: 'country'
+  });
+}
+
+ADventori.conf.items.options.map = mapAllItem;
+
+cpt = ADventori.conf.items.addAll(API_v4.getItems('basket'), {
+  scenario: 'all_visited_basket'
+});
+
+cpt = ADventori.conf.items.addAll(API_v4.getItems('rdp'), {
+  scenario: 'all_visited_rdp'
+});
+
+cpt = ADventori.conf.items.addAll(API_v4.getItems('rlp'), {
+  scenario: 'all_visited_rlp'
+});
+
+cpt = ADventori.conf.items.addAll(API_v4.getItems('basket_related'), {
+  scenario: 'all_visited_basket_related'
+});
+
+cpt = ADventori.conf.items.addAll(API_v4.getItems('rdp_related'), {
+  scenario: 'all_visited_rdp_related'
+});
+
+cpt = ADventori.conf.items.addAll(API_v4.getItems('rlp_related'), {
+  scenario: 'all_visited_rlp_related'
+});
+
+// PRIORISATION DES SITES TRACKERS POUR SELECTION DES ITEMS - 3 FRAMES//
+// DESKTOP
+
+if (poolOpen == 'open') {
+  ADventori.conf.items.options.map = mapOpenItem;
+
+  cpt = ADventori.conf.items.addAll(items.siteTrackers.Basket.productDetail, {
+    scenario: 'open_visited_basket'
+  });
+
+  cpt = ADventori.conf.items.addAll(items.siteTrackers.PageViewProduct_RDP.productDetail, {
+    scenario: 'open_visited_rdp'
+  });
+
+  cpt = ADventori.conf.items.addAll(items.siteTrackers.PageViewCategory_RLP.productDetail, {
+    scenario: 'open_visited_rlp'
+  });
+
+  cpt = ADventori.conf.items.addAll(ADventori.conf.items.getRelated(items.siteTrackers.Basket.productDetail), {
+    scenario: 'open_visited_basket_related'
+  });
+
+  cpt = ADventori.conf.items.addAll(ADventori.conf.items.getRelated(items.siteTrackers.PageViewProduct_RDP.productDetail), {
+    scenario: 'open_visited_rdp_related'
+  });
+
+  cpt = ADventori.conf.items.addAll(ADventori.conf.items.getRelated(items.siteTrackers.PageViewCategory_RLP.productDetail), {
+    scenario: 'open_visited_rlp_related'
+  });
+
+//  cpt = ADventori.conf.items.addAll(items.places, {
+//   scenario: 'open_place'
+//  });
+}
+
+ADventori.conf.items.options.map = mapAllItem;
+cpt = ADventori.conf.items.addAll(items.siteTrackers.Basket.productDetail, {
+  scenario: 'all_visited_basket'
+});
+
+cpt = ADventori.conf.items.addAll(items.siteTrackers.PageViewProduct_RDP.productDetail, {
+  scenario: 'all_visited_rdp'
+});
+
+cpt = ADventori.conf.items.addAll(items.siteTrackers.PageViewCategory_RLP.productDetail, {
+  scenario: 'all_visited_rlp'
+});
+
+cpt = ADventori.conf.items.addAll(ADventori.conf.items.getRelated(items.siteTrackers.Basket.productDetail), {
+  scenario: 'all_visited_basket_related'
+});
+
+cpt = ADventori.conf.items.addAll(ADventori.conf.items.getRelated(items.siteTrackers.PageViewProduct_RDP.productDetail), {
+  scenario: 'all_visited_rdp_related'
+});
+
+cpt = ADventori.conf.items.addAll(ADventori.conf.items.getRelated(items.siteTrackers.PageViewCategory_RLP.productDetail), {
+  scenario: 'all_visited_rlp_related'
+});
+
+cpt = ADventori.conf.items.addAll(API_v4.getItems('city'), {
+  scenario: 'all_place'
+});
+
+cpt = ADventori.conf.items.addAll(API_v4.getItems('country'), {
+  scenario: 'country'
+});
+
+//cpt = ADventori.conf.items.addAll(items.places, {
+//   scenario: 'all_place'
+//});
+
+//cpt = ADventori.conf.items.addAll(ADventori.conf.items.getRelated(items.placement), {
+//  scenario: 'country'
+//});
+
+ADventori.assert.isTrue(ADventori.conf.items.size() >= 1, "No items from site/mobile trackers for pool [" + poolOpen + "] and country [" + country + "]");
+ADventori.assert.isTrue(ADventori.conf.items.size() <= 3, "More than 3 items from site/mobile trackers for pool [" + poolOpen + "] and country [" + country + "]");
+
+//DEFINITION DES VARIABLES//
+ADventori.conf.creaData = {
+ cta: cta.cta     
+};
+
+//STATISTIQUES//
+ADventori.conf.statData = {
+'a_d'     : params.a_d      || 'not_received', //advertiserID - %%TTD_ADVERTISERID%%
+'s_v'     : params.s_v      || 'not_received', //supplyvendorID - %%TTD_SUPPLYVENDOR%%
+'i_id'    : params.i_id     || 'not_received', //impressionID - %%TTD_IMPRESSIONID%%
+'td_id'   : params.td_id    || 'not_received', //tdid - %%TTD_TDID%%
+'p_id'    : params.p_id     || 'not_received', //partnerID - %%TTD_PARTNERID%%
+'cat'     : params.cat      || 'not_received', //cat - %%TTD_CATEGORY%%
+'c_a'     : params.c_a      || 'not_received', //- %%TTD_CAMPAIGNID%%
+'p_a'     : params.p_a      || 'not_received', //- %%TTD_ADGROUPID%%
+'as_a'    : params.as_a     || 'not_received', //- %%TTD_SITE%%
+'idfa'    : params.idfa     || 'not_received', //- %%TTD_DEVICEID%%
+'idfa_lat': params.idfa_lat || 'not_received', //- %%IDFA_LAT%%
+'aaid'    : params.aaid     || 'not_received', //- %%TTD_DEVICEID%%
+'aaid_lat': params.aaid_lat || 'not_received', //- %%AAID_LAT%%
+'aa'      : params.aa       || 'not_received', //- %%TTD_CREATIVEID%%
+  poolOpen: poolOpen
+ //conceptCrea: conceptCrea,
+ //ABTest : poolOpen + '|' + conceptCrea
+};
+
+ADventori.conf.statData['Mobile_PageViewHome_Homepage'] = API_v4.getUserData('homepage').length;
+ADventori.conf.statData['Mobile_PageViewProduct_RDP'] = API_v4.getUserData('rdp').length;
+ADventori.conf.statData['Mobile_PageViewCategory_RLP'] = API_v4.getUserData('rlp').length;
+ADventori.conf.statData['Mobile_Basket'] = API_v4.getUserData('basket').length;
+ADventori.conf.statData['Mobile_Purchase'] = API_v4.getUserData('purchase').length;
+ADventori.conf.statData['Desktop_PageViewHome_Homepage'] = userData.siteTrackers.PageViewHome_Homepage.customerDetail.length;
+ADventori.conf.statData['Desktop_PageViewProduct_RDP'] = userData.siteTrackers.PageViewProduct_RDP.customerDetail.length;
+ADventori.conf.statData['Desktop_PageViewCategory_RLP'] = userData.siteTrackers.PageViewCategory_RLP.customerDetail.length;
+ADventori.conf.statData['Desktop_Basket'] = userData.siteTrackers.Basket.customerDetail.length;
+ADventori.conf.statData['Desktop_Transaction'] = userData.siteTrackers.Transaction.customerDetail.length;
+ADventori.conf.statData['Desktop_PageViewHome_Homepage_UserType'] = userData.siteTrackers.PageViewHome_Homepage.customerDetail.length > 0 && userData.siteTrackers.PageViewHome_Homepage.customerDetail[0] && userData.siteTrackers.PageViewHome_Homepage.customerDetail[0].data.user_type ? userData.siteTrackers.PageViewHome_Homepage.customerDetail[0].data.user_type : 'No Data' ;
+ADventori.conf.statData['Desktop_PageViewProduct_RDP_UserType'] = userData.siteTrackers.PageViewProduct_RDP.customerDetail.length > 0 && userData.siteTrackers.PageViewProduct_RDP.customerDetail[0] && userData.siteTrackers.PageViewProduct_RDP.customerDetail[0].data.user_type ? userData.siteTrackers.PageViewProduct_RDP.customerDetail[0].data.user_type : 'No Data' ;
+ADventori.conf.statData['Desktop_PageViewCategory_RLP_UserType'] = userData.siteTrackers.PageViewCategory_RLP.customerDetail.length > 0 && userData.siteTrackers.PageViewCategory_RLP.customerDetail[0] && userData.siteTrackers.PageViewCategory_RLP.customerDetail[0].data.user_type ? userData.siteTrackers.PageViewCategory_RLP.customerDetail[0].data.user_type : 'No Data' ;
+ADventori.conf.statData['Desktop_Basket_UserType'] = userData.siteTrackers.Basket.customerDetail.length > 0 && userData.siteTrackers.Basket.customerDetail[0] && userData.siteTrackers.Basket.customerDetail[0].data.user_type ? userData.siteTrackers.Basket.customerDetail[0].data.user_type  : 'No Data' ;
+ADventori.conf.statData['Desktop_Transaction_UserType'] = userData.siteTrackers.Transaction.customerDetail.length > 0 && userData.siteTrackers.Transaction.customerDetail[0] && userData.siteTrackers.Transaction.customerDetail[0].data.user_type ? userData.siteTrackers.Transaction.customerDetail[0].data.user_type  : 'No Data' ;
+
+
+
+//BRAND SAFETY PIXELS//
+
+
+
+ADventori.conf.backup.creaUrl = '[PROTOCOL][HOSTNAME]/lp/dd/foodora/Foodpanda_OnGoing_201711/creas/backups/'+size+'_EN.gif';
+
+// FORMAT SCENARIO//
+ADventori.fn.onConfProcessed = function(conf){
+  var fullScenario = conf.processed.scenario;
+  var newScenario = fullScenario;
+  if(newScenario){
+    if(newScenario.indexOf('basket') >= 0){
+      newScenario = 'Basket';
+    } else if(newScenario.indexOf('rdp') >= 0){
+      newScenario = 'RDP';
+    } else if(newScenario.indexOf('rlp') >= 0){
+      newScenario = 'RLP';
+    } else if(newScenario.indexOf('place') >= 0){
+      newScenario = 'Place';
+    } else if(newScenario.indexOf('country') >= 0){
+      newScenario = 'Country';
+    }
+  }
+  ADventori.assert.isTrue(newScenario != 'Basket' && (API_v4.getUserData('basket').length>0 || userData.siteTrackers.Basket.customerDetail.length), 'Scenario was not basket but we had basket tags');
+  ADventori.assert.isTrue(newScenario != 'RDP' && newScenario != 'RDP' && (API_v4.getUserData('rdp').length>0 || userData.siteTrackers.PageViewProduct_RDP.customerDetail.length), 'Scenario was not RDP but we had RDP tags');
+  
+  conf.processed.scenario = newScenario;
+  conf.processed.statData['_stat_scn'] = newScenario;
+  conf.processed.statData['full_scn'] = fullScenario;
+  conf.processed.statData['_stat_items_src'] = fullScenario;
+  conf.processed.statData['_stat_items_ids'] = conf.processed.statData['_stat_ids'];
+  conf.processed['statUrl'] = ADventori.utils.addQueryParams(conf.processed['displayPassback'] ? 'passback' : conf.processed['creaUrl'], conf.processed.statData);
+}
+debug.stack.pop();
+
+debug.stack.push('conf_placement');
+ADventori.fn.autoStart = function() {
+  if (typeof mraid !== 'undefined') {     
+    ADventori.conf.statData.mraid = true;
+    if (mraid.getState && mraid.getState() == 'loading') {     
+      mraid.addEventListener('ready', ADventori.start);  
+    } else {     
+      ADventori.start();
+    }
+  } else {     
+//    ADventori.conf.displayBackup = true;  
+//    ADventori.conf.scenario = 'NO_MRAID';
+    ADventori.conf.statData.mraid = false;
+    ADventori.start();
+  }
+};
+
+/*ADventori.fn.onStart = function() {   
+    ADventori.dom.evalStyle(document, [
+      'html, body {width:100%; height:100%;}',
+      'html,body, div, img, iframe {padding:0;border:0;margin:0;}',
+      'iframe {margin-left: auto;margin-right: auto;display: block;}'
+    ].join('\n'));
+ 
+    var w, h;
+ 
+    var metaTag=document.createElement('meta');
+    metaTag.name = "viewport";
+    metaTag.content = "width=device-width, initial-scale=1.0, maximum-scale=1.0";
+    document.getElementsByTagName('head')[0].appendChild(metaTag);
+ 
+    if(typeof mraid !== 'undefined'){
+      var p = mraid.getDefaultPosition && mraid.getDefaultPosition();
+      w = (p && p.width) || window.innerWidth || screen.width;
+      h = (p && p.height) || window.innerHeight || screen.height;
+    }
+ 
+    ADventori.conf.size.width = w;
+    ADventori.conf.size.height = h;
+};*/
+debug.stack.pop();
+
+}, 'conf', 'AdErrorConf');
+
+ADventori.track.attempt(ADventori.autoStart, 'autoStart');
+
+} catch(_e) {
+  (function() {
+    var campaignId = 0;
+    var placementId = 0;
+    var error = '';
+    var context = '';
+    var userAgent = '';
+    try {
+      if (_ADventori_data) {
+        campaignId = _ADventori_data.campaign['campaignId'];
+        placementId = _ADventori_data.placement['placementId'];
+      }
+    } catch(__e) {}
+    try {
+      error = (_e && _e.name ? (_e.name + ': ' + (_e.message || '')) : (_e || '')) + '';
+    } catch(__e) {}
+    try {
+      try {
+        context = window.top.location.href;
+      } catch(__e) {
+        context = window.document.referrer;
+      }
+    } catch(__e) {}
+    try {
+      userAgent = (window.navigator && window.navigator.userAgent);
+    } catch(__e) {}
+    document.createElement('img').src = ('https://adventori.com/tracker/trackPrint?tk_type=AdErrorInitJs' + '&tk_campaignId=' + encodeURIComponent(campaignId) + '&tk_cartoucheId=' + encodeURIComponent(placementId) + '&tk_urlClick=' + encodeURIComponent(error) + '&tk_context=' + encodeURIComponent(context) + '&tk_retailer_4=' + encodeURIComponent(userAgent));
+    try {
+      window.console && window.console.error && window.console.error('[ADventori]', 'AdErrorInitJs', _e);
+    } catch(__e) {}
+  })();
+}
+
+})();
